@@ -1,0 +1,29 @@
+2025/01/23-15:35:01.226 17640 Reusing MANIFEST /home/zefixed/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/01/23-15:35:01.234 17640 Recovering log #167
+2025/01/23-15:35:01.234 17640 Reusing old log /home/zefixed/.config/discord/Local Storage/leveldb/000167.log 
+2025/01/23-15:36:12.413 17641 Level-0 table #171: started
+2025/01/23-15:36:12.417 17641 Level-0 table #171: 25360 bytes OK
+2025/01/23-15:36:12.422 17641 Delete type=0 #167
+2025/01/23-15:39:38.040 17641 Level-0 table #173: started
+2025/01/23-15:39:38.072 17641 Level-0 table #173: 3358072 bytes OK
+2025/01/23-15:39:38.078 17641 Delete type=0 #170
+2025/01/23-15:54:12.393 17641 Level-0 table #175: started
+2025/01/23-15:54:12.397 17641 Level-0 table #175: 39437 bytes OK
+2025/01/23-15:54:12.403 17641 Delete type=0 #172
+2025/01/23-15:54:12.403 17641 Compacting 4@0 + 2@1 files
+2025/01/23-15:54:12.420 17641 Generated table #176@0: 17 keys, 2457409 bytes
+2025/01/23-15:54:12.455 17641 Generated table #177@0: 93 keys, 3349103 bytes
+2025/01/23-15:54:12.456 17641 Compacted 4@0 + 2@1 files => 5806512 bytes
+2025/01/23-15:54:12.461 17641 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/01/23-15:54:12.461 17641 Delete type=2 #175
+2025/01/23-15:54:12.461 17641 Delete type=2 #173
+2025/01/23-15:54:12.461 17641 Delete type=2 #166
+2025/01/23-15:54:12.461 17641 Delete type=2 #168
+2025/01/23-15:54:12.461 17641 Delete type=2 #171
+2025/01/23-15:54:12.462 17641 Delete type=2 #165
+2025/01/23-16:30:12.394 17641 Level-0 table #179: started
+2025/01/23-16:30:12.399 17641 Level-0 table #179: 41665 bytes OK
+2025/01/23-16:30:12.404 17641 Delete type=0 #174
+2025/01/23-17:16:12.393 17641 Level-0 table #181: started
+2025/01/23-17:16:12.398 17641 Level-0 table #181: 22911 bytes OK
+2025/01/23-17:16:12.403 17641 Delete type=0 #178

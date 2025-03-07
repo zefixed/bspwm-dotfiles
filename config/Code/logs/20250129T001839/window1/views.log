@@ -1,0 +1,15 @@
+2025-01-29 00:18:40.586 [info] Added views:workbench.view.search in workbench.view.search
+2025-01-29 00:18:40.586 [info] Added views:workbench.scm in workbench.view.scm
+2025-01-29 00:18:40.586 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-01-29 00:18:40.586 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-01-29 00:18:40.586 [info] Added views:terminal in terminal
+2025-01-29 00:18:40.586 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2025-01-29 00:18:41.159 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2025-01-29 00:18:41.607 [info] Added views:codeium.chatPanelView in workbench.view.extension.codeium
+2025-01-29 00:18:41.608 [info] Added views:remoteTargets in workbench.view.remote
+2025-01-29 00:18:41.611 [info] Added views:liveshare.session in workbench.view.extension.liveshare
+2025-01-29 00:18:42.021 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2025-01-29 00:18:42.969 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2025-01-29 00:18:43.101 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2025-01-29 00:18:48.571 [info] Added views:workbench.panel.comments in workbench.panel.comments
+2025-01-29 00:19:38.473 [info] Removed views:workbench.view.testing from workbench.view.extension.test

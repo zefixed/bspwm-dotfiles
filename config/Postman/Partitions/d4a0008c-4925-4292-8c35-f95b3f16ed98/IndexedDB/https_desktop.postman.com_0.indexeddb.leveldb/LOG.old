@@ -1,0 +1,22 @@
+2025/02/02-16:03:12.423 8497 Reusing MANIFEST /home/zefixed/.config/Postman/Partitions/d4a0008c-4925-4292-8c35-f95b3f16ed98/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/02-16:03:12.424 8497 Recovering log #6
+2025/02/02-16:03:12.429 8497 Reusing old log /home/zefixed/.config/Postman/Partitions/d4a0008c-4925-4292-8c35-f95b3f16ed98/IndexedDB/https_desktop.postman.com_0.indexeddb.leveldb/000006.log 
+2025/02/02-18:17:28.571 8498 Level-0 table #10: started
+2025/02/02-18:17:28.577 8498 Level-0 table #10: 124746 bytes OK
+2025/02/02-18:17:28.582 8498 Delete type=0 #6
+2025/02/02-18:17:28.582 8498 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x17\x00v\x00a\x00u\x00l\x00t\x00_\x00p\x00e\x00r\x00s\x00o\x00n\x00a\x00l\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 3205 : 1
+2025/02/02-18:17:28.582 8498 Compacting 1@0 + 1@1 files
+2025/02/02-18:17:28.588 8498 Generated table #11@0: 2140 keys, 35025 bytes
+2025/02/02-18:17:28.588 8498 Compacted 1@0 + 1@1 files => 35025 bytes
+2025/02/02-18:17:28.593 8498 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/02-18:17:28.593 8498 Delete type=2 #7
+2025/02/02-18:17:28.593 8498 Delete type=2 #10
+2025/02/02-18:17:28.593 8498 Manual compaction at level-0 from '\x00\x05\x01\x02\x01\x17\x00v\x00a\x00u\x00l\x00t\x00_\x00p\x00e\x00r\x00s\x00o\x00n\x00a\x00l\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 3205 : 1 .. (end); will stop at (end)
+2025/02/02-18:17:28.593 8498 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x17\x00v\x00a\x00u\x00l\x00t\x00_\x00p\x00e\x00r\x00s\x00o\x00n\x00a\x00l\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 3205 : 1
+2025/02/02-18:17:28.593 8498 Compacting 1@1 + 1@2 files
+2025/02/02-18:17:28.597 8498 Generated table #12@1: 719 keys, 22517 bytes
+2025/02/02-18:17:28.598 8498 Compacted 1@1 + 1@2 files => 22517 bytes
+2025/02/02-18:17:28.602 8498 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/02-18:17:28.602 8498 Delete type=2 #11
+2025/02/02-18:17:28.603 8498 Delete type=2 #5
+2025/02/02-18:17:28.603 8498 Manual compaction at level-1 from '\x00\x05\x01\x02\x01\x17\x00v\x00a\x00u\x00l\x00t\x00_\x00p\x00e\x00r\x00s\x00o\x00n\x00a\x00l\x00_\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 3205 : 1 .. (end); will stop at (end)

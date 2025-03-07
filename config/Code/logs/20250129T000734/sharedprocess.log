@@ -1,0 +1,385 @@
+2025-01-29 00:08:09.608 [info] Getting Manifest... kevinrose.vsc-python-indent
+2025-01-29 00:08:09.608 [info] Getting Manifest... solnurkarim.html-to-css-autocompletion
+2025-01-29 00:08:09.609 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2025-01-29 00:08:09.609 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2025-01-29 00:08:09.609 [info] Getting Manifest... codium.codium
+2025-01-29 00:08:09.609 [info] Getting Manifest... usernamehw.errorlens
+2025-01-29 00:08:09.610 [info] Getting Manifest... icrawl.discord-vscode
+2025-01-29 00:08:09.610 [info] Getting Manifest... glenn2223.live-sass
+2025-01-29 00:08:09.610 [info] Getting Manifest... naumovs.color-highlight
+2025-01-29 00:08:09.610 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2025-01-29 00:08:09.610 [info] Getting Manifest... zhuangtongfa.material-theme
+2025-01-29 00:08:09.611 [info] Getting Manifest... adpyke.codesnap
+2025-01-29 00:08:09.611 [info] Getting Manifest... syler.sass-indented
+2025-01-29 00:08:09.611 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2025-01-29 00:08:09.611 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2025-01-29 00:08:09.612 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2025-01-29 00:08:09.612 [info] Getting Manifest... esbenp.prettier-vscode
+2025-01-29 00:08:09.612 [info] Getting Manifest... patbenatar.advanced-new-file
+2025-01-29 00:08:09.612 [info] Getting Manifest... charliermarsh.ruff
+2025-01-29 00:08:09.612 [info] Getting Manifest... azemoh.one-monokai
+2025-01-29 00:08:09.613 [info] Getting Manifest... cstrap.flask-snippets
+2025-01-29 00:08:09.613 [info] Getting Manifest... cweijan.vscode-office
+2025-01-29 00:08:09.613 [info] Getting Manifest... ms-vscode.remote-explorer
+2025-01-29 00:08:09.613 [info] Getting Manifest... golang.go
+2025-01-29 00:08:09.614 [info] Getting Manifest... ritwickdey.liveserver
+2025-01-29 00:08:09.614 [info] Getting Manifest... ms-python.autopep8
+2025-01-29 00:08:09.614 [info] Getting Manifest... ms-python.vscode-pylance
+2025-01-29 00:08:09.614 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2025-01-29 00:08:09.614 [info] Getting Manifest... ms-vscode.live-server
+2025-01-29 00:08:09.615 [info] Getting Manifest... codeium.codeium
+2025-01-29 00:08:09.615 [info] Getting Manifest... ms-python.debugpy
+2025-01-29 00:08:09.615 [info] Getting Manifest... ms-python.python
+2025-01-29 00:08:09.866 [info] Installing extension: kevinrose.vsc-python-indent {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.867 [info] Installing extension: ms-vscode-remote.remote-wsl {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.867 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.867 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.867 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.868 [info] Installing extension: ms-python.autopep8 {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.868 [info] Installing extension: ms-vscode.live-server {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.868 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.868 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.869 [info] Installing extension: golang.go {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.869 [info] Installing extension: solnurkarim.html-to-css-autocompletion {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.869 [info] Installing extension: codium.codium {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.869 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.870 [info] Installing extension: visualstudioexptteam.vscodeintellicode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.870 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.870 [info] Installing extension: adpyke.codesnap {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.870 [info] Installing extension: charliermarsh.ruff {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.870 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.871 [info] Installing extension: syler.sass-indented {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.871 [info] Installing extension: vscode-icons-team.vscode-icons {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.871 [info] Installing extension: naumovs.color-highlight {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.871 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.872 [info] Installing extension: ms-vsliveshare.vsliveshare {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.872 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.872 [info] Installing extension: zhuangtongfa.material-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.872 [info] Installing extension: cstrap.flask-snippets {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.873 [info] Installing extension: cweijan.vscode-office {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.873 [info] Installing extension: glenn2223.live-sass {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.873 [info] Installing extension: icrawl.discord-vscode {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.873 [info] Installing extension: azemoh.one-monokai {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.873 [info] Installing extension: codeium.codeium {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.874 [info] Installing extension: patbenatar.advanced-new-file {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json","path":"/home/zefixed/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-29 00:08:09.874 [info] Installing the extension without checking dependencies and pack kevinrose.vsc-python-indent
+2025-01-29 00:08:09.874 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+2025-01-29 00:08:09.874 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh
+2025-01-29 00:08:09.875 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-ssh-edit
+2025-01-29 00:08:09.875 [info] Installing the extension without checking dependencies and pack ms-vscode.remote-explorer
+2025-01-29 00:08:09.875 [info] Installing the extension without checking dependencies and pack ms-python.autopep8
+2025-01-29 00:08:09.875 [info] Installing the extension without checking dependencies and pack ms-vscode.live-server
+2025-01-29 00:08:09.875 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-01-29 00:08:09.876 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-01-29 00:08:09.876 [info] Installing the extension without checking dependencies and pack golang.go
+2025-01-29 00:08:09.876 [info] Installing the extension without checking dependencies and pack solnurkarim.html-to-css-autocompletion
+2025-01-29 00:08:09.876 [info] Installing the extension without checking dependencies and pack codium.codium
+2025-01-29 00:08:09.877 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.intellicode-api-usage-examples
+2025-01-29 00:08:09.877 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+2025-01-29 00:08:09.877 [info] Installing the extension without checking dependencies and pack usernamehw.errorlens
+2025-01-29 00:08:09.877 [info] Installing the extension without checking dependencies and pack adpyke.codesnap
+2025-01-29 00:08:09.878 [info] Installing the extension without checking dependencies and pack charliermarsh.ruff
+2025-01-29 00:08:09.878 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2025-01-29 00:08:09.878 [info] Installing the extension without checking dependencies and pack syler.sass-indented
+2025-01-29 00:08:09.878 [info] Installing the extension without checking dependencies and pack vscode-icons-team.vscode-icons
+2025-01-29 00:08:09.878 [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+2025-01-29 00:08:09.879 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2025-01-29 00:08:09.879 [info] Installing the extension without checking dependencies and pack ms-vsliveshare.vsliveshare
+2025-01-29 00:08:09.879 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-01-29 00:08:09.879 [info] Installing the extension without checking dependencies and pack zhuangtongfa.material-theme
+2025-01-29 00:08:09.879 [info] Installing the extension without checking dependencies and pack cstrap.flask-snippets
+2025-01-29 00:08:09.880 [info] Installing the extension without checking dependencies and pack cweijan.vscode-office
+2025-01-29 00:08:09.880 [info] Installing the extension without checking dependencies and pack glenn2223.live-sass
+2025-01-29 00:08:09.880 [info] Installing the extension without checking dependencies and pack icrawl.discord-vscode
+2025-01-29 00:08:09.880 [info] Installing the extension without checking dependencies and pack azemoh.one-monokai
+2025-01-29 00:08:09.881 [info] Installing the extension without checking dependencies and pack codeium.codeium
+2025-01-29 00:08:09.881 [info] Installing the extension without checking dependencies and pack patbenatar.advanced-new-file
+2025-01-29 00:08:10.321 [info] Extension signature verification result for ms-vscode.remote-explorer: UnknownError. Executed: true. Duration: 12ms.
+2025-01-29 00:08:10.399 [info] Extension signature verification result for ms-vscode.live-server: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:10.430 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-vscode.remote-explorer-0.4.3: ms-vscode.remote-explorer
+2025-01-29 00:08:10.440 [info] Renamed to /home/zefixed/.vscode/extensions/ms-vscode.remote-explorer-0.4.3
+2025-01-29 00:08:10.514 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-vscode.live-server-0.4.15: ms-vscode.live-server
+2025-01-29 00:08:10.523 [info] Renamed to /home/zefixed/.vscode/extensions/ms-vscode.live-server-0.4.15
+2025-01-29 00:08:10.532 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:11.336 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: UnknownError. Executed: true. Duration: 13ms.
+2025-01-29 00:08:11.423 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2025-01-29 00:08:11.431 [info] Renamed to /home/zefixed/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2025-01-29 00:08:11.451 [info] Extension signature verification result for icrawl.discord-vscode: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:11.485 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0: icrawl.discord-vscode
+2025-01-29 00:08:11.492 [info] Renamed to /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0
+2025-01-29 00:08:11.523 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:11.620 [info] Extension signature verification result for usernamehw.errorlens: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:11.639 [info] Extension signature verification result for syler.sass-indented: UnknownError. Executed: true. Duration: 12ms.
+2025-01-29 00:08:11.641 [info] Extension signature verification result for ms-python.autopep8: UnknownError. Executed: true. Duration: 7ms.
+2025-01-29 00:08:11.666 [info] Extension signature verification result for golang.go: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:11.677 [info] Extension signature verification result for cstrap.flask-snippets: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:11.728 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/cstrap.flask-snippets-0.1.3: cstrap.flask-snippets
+2025-01-29 00:08:11.737 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/syler.sass-indented-1.8.32: syler.sass-indented
+2025-01-29 00:08:11.739 [info] Renamed to /home/zefixed/.vscode/extensions/cstrap.flask-snippets-0.1.3
+2025-01-29 00:08:11.754 [info] Renamed to /home/zefixed/.vscode/extensions/syler.sass-indented-1.8.32
+2025-01-29 00:08:11.764 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/usernamehw.errorlens-3.22.1: usernamehw.errorlens
+2025-01-29 00:08:11.784 [info] Renamed to /home/zefixed/.vscode/extensions/usernamehw.errorlens-3.22.1
+2025-01-29 00:08:11.835 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:11.838 [info] Extension signature verification result for solnurkarim.html-to-css-autocompletion: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:11.850 [info] Extension signature verification result for zhuangtongfa.material-theme: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:11.943 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/solnurkarim.html-to-css-autocompletion-1.1.2: solnurkarim.html-to-css-autocompletion
+2025-01-29 00:08:11.947 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/golang.go-0.44.0: golang.go
+2025-01-29 00:08:11.952 [info] Renamed to /home/zefixed/.vscode/extensions/solnurkarim.html-to-css-autocompletion-1.1.2
+2025-01-29 00:08:11.962 [info] Renamed to /home/zefixed/.vscode/extensions/golang.go-0.44.0
+2025-01-29 00:08:12.043 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:12.107 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/zhuangtongfa.material-theme-3.17.7: zhuangtongfa.material-theme
+2025-01-29 00:08:12.120 [info] Extension signature verification result for azemoh.one-monokai: UnknownError. Executed: true. Duration: 10ms.
+2025-01-29 00:08:12.131 [info] Renamed to /home/zefixed/.vscode/extensions/zhuangtongfa.material-theme-3.17.7
+2025-01-29 00:08:12.198 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/azemoh.one-monokai-0.5.2: azemoh.one-monokai
+2025-01-29 00:08:12.207 [info] Renamed to /home/zefixed/.vscode/extensions/azemoh.one-monokai-0.5.2
+2025-01-29 00:08:12.317 [info] Extension signature verification result for glenn2223.live-sass: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:12.351 [info] Extension signature verification result for naumovs.color-highlight: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:12.488 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/glenn2223.live-sass-6.1.2: glenn2223.live-sass
+2025-01-29 00:08:12.498 [info] Renamed to /home/zefixed/.vscode/extensions/glenn2223.live-sass-6.1.2
+2025-01-29 00:08:12.541 [info] Extension signature verification result for patbenatar.advanced-new-file: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:12.550 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0: ms-python.autopep8
+2025-01-29 00:08:12.582 [info] Renamed to /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0
+2025-01-29 00:08:12.585 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:12.953 [info] Extension signature verification result for kevinrose.vsc-python-indent: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:13.071 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/kevinrose.vsc-python-indent-1.19.0: kevinrose.vsc-python-indent
+2025-01-29 00:08:13.091 [info] Renamed to /home/zefixed/.vscode/extensions/kevinrose.vsc-python-indent-1.19.0
+2025-01-29 00:08:13.146 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:13.202 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:13.242 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/naumovs.color-highlight-2.8.0: naumovs.color-highlight
+2025-01-29 00:08:13.276 [info] Renamed to /home/zefixed/.vscode/extensions/naumovs.color-highlight-2.8.0
+2025-01-29 00:08:13.366 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:13.531 [info] Extension signature verification result for adpyke.codesnap: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:13.541 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-vscode-remote.remote-ssh-0.116.1: ms-vscode-remote.remote-ssh
+2025-01-29 00:08:13.566 [info] Renamed to /home/zefixed/.vscode/extensions/ms-vscode-remote.remote-ssh-0.116.1
+2025-01-29 00:08:13.657 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:14.212 [info] Extension signature verification result for visualstudioexptteam.intellicode-api-usage-examples: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:14.701 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9: visualstudioexptteam.intellicode-api-usage-examples
+2025-01-29 00:08:14.718 [info] Renamed to /home/zefixed/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-01-29 00:08:14.806 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:14.899 [info] Extension signature verification result for vscode-icons-team.vscode-icons: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:14.942 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/patbenatar.advanced-new-file-1.2.2: patbenatar.advanced-new-file
+2025-01-29 00:08:15.012 [info] Renamed to /home/zefixed/.vscode/extensions/patbenatar.advanced-new-file-1.2.2
+2025-01-29 00:08:15.071 [info] Extension signature verification result for codeium.codeium: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:15.097 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:15.243 [info] Extension signature verification result for ms-vscode-remote.remote-wsl: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:15.402 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/codeium.codeium-1.30.18: codeium.codeium
+2025-01-29 00:08:15.412 [info] Renamed to /home/zefixed/.vscode/extensions/codeium.codeium-1.30.18
+2025-01-29 00:08:15.441 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:15.469 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-vscode-remote.remote-wsl-0.88.5: ms-vscode-remote.remote-wsl
+2025-01-29 00:08:15.483 [info] Renamed to /home/zefixed/.vscode/extensions/ms-vscode-remote.remote-wsl-0.88.5
+2025-01-29 00:08:15.750 [info] Extension signature verification result for esbenp.prettier-vscode: UnknownError. Executed: true. Duration: 10ms.
+2025-01-29 00:08:16.002 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-01-29 00:08:16.012 [info] Renamed to /home/zefixed/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-01-29 00:08:16.101 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:16.675 [info] Extension signature verification result for cweijan.vscode-office: UnknownError. Executed: true. Duration: 10ms.
+2025-01-29 00:08:16.796 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/adpyke.codesnap-1.3.4: adpyke.codesnap
+2025-01-29 00:08:16.915 [info] Renamed to /home/zefixed/.vscode/extensions/adpyke.codesnap-1.3.4
+2025-01-29 00:08:17.001 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:17.027 [info] Extension signature verification result for codium.codium: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:17.110 [info] Extension signature verification result for ritwickdey.liveserver: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:17.631 [info] Extension signature verification result for ms-vsliveshare.vsliveshare: UnknownError. Executed: true. Duration: 10ms.
+2025-01-29 00:08:17.953 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/codium.codium-0.14.0: codium.codium
+2025-01-29 00:08:17.970 [info] Renamed to /home/zefixed/.vscode/extensions/codium.codium-0.14.0
+2025-01-29 00:08:18.060 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:18.499 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:18.533 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/vscode-icons-team.vscode-icons-12.10.0: vscode-icons-team.vscode-icons
+2025-01-29 00:08:18.607 [info] Renamed to /home/zefixed/.vscode/extensions/vscode-icons-team.vscode-icons-12.10.0
+2025-01-29 00:08:18.702 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:19.524 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:19.856 [info] Extension signature verification result for charliermarsh.ruff: UnknownError. Executed: true. Duration: 9ms.
+2025-01-29 00:08:19.939 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5948: ms-vsliveshare.vsliveshare
+2025-01-29 00:08:19.985 [info] Renamed to /home/zefixed/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5948
+2025-01-29 00:08:20.048 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:20.368 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/cweijan.vscode-office-3.5.0: cweijan.vscode-office
+2025-01-29 00:08:20.418 [info] Renamed to /home/zefixed/.vscode/extensions/cweijan.vscode-office-3.5.0
+2025-01-29 00:08:20.506 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:20.754 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2025-01-29 00:08:20.784 [info] Renamed to /home/zefixed/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2025-01-29 00:08:20.873 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:21.583 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/charliermarsh.ruff-2025.4.0-linux-x64: charliermarsh.ruff
+2025-01-29 00:08:21.604 [info] Renamed to /home/zefixed/.vscode/extensions/charliermarsh.ruff-2025.4.0-linux-x64
+2025-01-29 00:08:21.692 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:23.603 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 8ms.
+2025-01-29 00:08:24.420 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64: ms-python.python
+2025-01-29 00:08:24.560 [info] Renamed to /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64
+2025-01-29 00:08:24.648 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:24.992 [info] Extension signature verification result for visualstudioexptteam.vscodeintellicode: UnknownError. Executed: true. Duration: 10ms.
+2025-01-29 00:08:26.289 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-01-29 00:08:26.546 [info] Renamed to /home/zefixed/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2025-01-29 00:08:26.632 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:26.729 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2: visualstudioexptteam.vscodeintellicode
+2025-01-29 00:08:26.742 [info] Renamed to /home/zefixed/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2
+2025-01-29 00:08:26.826 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-29 00:08:32.531 [info] Extracted extension to file:///home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2025-01-29 00:08:32.922 [info] Renamed to /home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1
+2025-01-29 00:08:32.985 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.986 [info] Extension installed successfully: ms-vscode.live-server vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.986 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.986 [info] Extension installed successfully: icrawl.discord-vscode vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.986 [info] Extension installed successfully: cstrap.flask-snippets vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.987 [info] Extension installed successfully: syler.sass-indented vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.987 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.987 [info] Extension installed successfully: solnurkarim.html-to-css-autocompletion vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.987 [info] Extension installed successfully: golang.go vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.987 [info] Extension installed successfully: zhuangtongfa.material-theme vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.988 [info] Extension installed successfully: azemoh.one-monokai vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.988 [info] Extension installed successfully: glenn2223.live-sass vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.988 [info] Extension installed successfully: ms-python.autopep8 vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.988 [info] Extension installed successfully: kevinrose.vsc-python-indent vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.989 [info] Extension installed successfully: naumovs.color-highlight vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.989 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.989 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.989 [info] Extension installed successfully: patbenatar.advanced-new-file vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.989 [info] Extension installed successfully: codeium.codeium vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.990 [info] Extension installed successfully: ms-vscode-remote.remote-wsl vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.990 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.990 [info] Extension installed successfully: adpyke.codesnap vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.990 [info] Extension installed successfully: codium.codium vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.990 [info] Extension installed successfully: vscode-icons-team.vscode-icons vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.991 [info] Extension installed successfully: ms-vsliveshare.vsliveshare vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.991 [info] Extension installed successfully: cweijan.vscode-office vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.991 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.991 [info] Extension installed successfully: charliermarsh.ruff vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.992 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.992 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.992 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:32.992 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/zefixed/.vscode/extensions/extensions.json
+2025-01-29 00:08:33.022 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/zefixed/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

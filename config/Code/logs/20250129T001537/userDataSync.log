@@ -1,0 +1,24 @@
+2025-01-29 00:15:39.129 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-01-29 00:15:39.129 [info] Auto Sync is enabled.
+2025-01-29 00:15:39.129 [info] Auto Sync: Suspended until auth token is available.
+2025-01-29 00:15:40.626 [info] Auto Sync: Triggered by Interval
+2025-01-29 00:15:40.630 [info] Sync started.
+2025-01-29 00:15:40.987 [info] Settings: No changes found during synchronizing settings.
+2025-01-29 00:15:40.998 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-29 00:15:41.001 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-29 00:15:41.003 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-29 00:15:41.008 [info] GlobalState: No changes found during synchronizing ui state.
+2025-01-29 00:15:41.055 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-29 00:15:41.057 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-29 00:15:41.058 [info] Sync done. Took 578ms
+2025-01-29 00:16:13.899 [info] Auto Sync: Triggered by Activity
+2025-01-29 00:16:13.899 [info] Sync started.
+2025-01-29 00:16:14.002 [info] Settings: No changes found during synchronizing settings.
+2025-01-29 00:16:14.009 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-01-29 00:16:14.017 [info] Snippets: No changes found during synchronizing snippets.
+2025-01-29 00:16:14.024 [info] Tasks: No changes found during synchronizing tasks.
+2025-01-29 00:16:14.579 [info] GlobalState: Updated remote ui state. Updated: expandSuggestionDocs.
+2025-01-29 00:16:14.587 [info] GlobalState: Updated last synchronized ui state
+2025-01-29 00:16:14.722 [info] Extensions: No changes found during synchronizing extensions.
+2025-01-29 00:16:14.730 [info] Profiles: No changes found during synchronizing profiles.
+2025-01-29 00:16:14.732 [info] Sync done. Took 836ms

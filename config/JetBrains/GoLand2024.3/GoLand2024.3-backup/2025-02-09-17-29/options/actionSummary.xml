@@ -1,0 +1,190 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1738497542183" />
+    </e>
+    <e n="$SelectAll">
+      <i c="7" l="1739110703727" />
+    </e>
+    <e n="$Undo">
+      <i c="99" l="1739110370419" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1738663229469" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="9" l="1739110154715" />
+    </e>
+    <e n="Documentation.EditSource">
+      <i c="1" l="1738500145798" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="427" l="1739110824695" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="75" l="1739110821743" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1739110494952" />
+    </e>
+    <e n="EditorCopy">
+      <i c="71" l="1739110747479" />
+    </e>
+    <e n="EditorCut">
+      <i c="11" l="1739110180199" />
+    </e>
+    <e n="EditorDelete">
+      <i c="4" l="1739107038114" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="8" l="1739108599816" />
+    </e>
+    <e n="EditorDown">
+      <i c="50" l="1739110152946" />
+    </e>
+    <e n="EditorEnter">
+      <i c="169" l="1739110728944" />
+    </e>
+    <e n="EditorEscape">
+      <i c="4" l="1739107154358" />
+    </e>
+    <e n="EditorLeft">
+      <i c="58" l="1739110315004" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="46" l="1739108290601" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="13" l="1739109370864" />
+    </e>
+    <e n="EditorPaste">
+      <i c="88" l="1739110735105" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="44" l="1739108335181" />
+    </e>
+    <e n="EditorRight">
+      <i c="69" l="1739109370258" />
+    </e>
+    <e n="EditorTab">
+      <i c="35" l="1739110191403" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1739108218063" />
+    </e>
+    <e n="EditorUp">
+      <i c="37" l="1739108544463" />
+    </e>
+    <e n="ExternalSystem.HideProjectRefreshAction">
+      <i c="1" l="1738663246235" />
+    </e>
+    <e n="FindUsages">
+      <i c="5" l="1739105889701" />
+    </e>
+    <e n="Go.NewGoFile">
+      <i c="7" l="1739110439642" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="4" l="1739109634488" />
+    </e>
+    <e n="NewDir">
+      <i c="7" l="1739105987488" />
+    </e>
+    <e n="ReopenClosedTab">
+      <i c="1" l="1739107887131" />
+    </e>
+    <e n="Replace">
+      <i c="1" l="1739107180349" />
+    </e>
+    <e n="Rerun">
+      <i c="22" l="1739110859615" />
+    </e>
+    <e n="Run">
+      <i c="6" l="1739110323941" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1739110454407" />
+    </e>
+    <e n="SaveDocument">
+      <i c="175" l="1739110832766" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="3" l="1739106689089" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="7" l="1739108281752" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1738500308708" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1739110434464" />
+    </e>
+    <e n="TextEditorWithPreview.Layout.PreviewOnly">
+      <i c="2" l="1739103570454" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1738663264980" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1738497500070" />
+    </e>
+    <e n="com.goide.editor.marker.GoRunGenerateLineMarkerProvider$2">
+      <i c="2" l="1738663266532" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="1" l="1738499495210" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1738499527689" />
+    </e>
+    <e n="com.intellij.database.view.ui.DataSourcesSideTab$AddAction">
+      <i c="1" l="1738499509838" />
+    </e>
+    <e n="com.intellij.execution.actions.CreateAction">
+      <i c="1" l="1738665014908" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="12" l="1739110941789" />
+    </e>
+    <e n="com.intellij.execution.ui.actions.CloseAction">
+      <i c="1" l="1739102979890" />
+    </e>
+    <e n="com.intellij.execution.util.EnvVariablesTable$2">
+      <i c="2" l="1738498225595" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1739107189030" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="2" l="1738665012013" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="2" l="1739109656160" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="22" l="1739110122780" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1738497543860" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="16" l="1739110753974" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1738500306246" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="38" l="1739110799074" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$1">
+      <i c="1" l="1738498032969" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1738498017712" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1738497987160" />
+    </e>
+  </component>
+</application>

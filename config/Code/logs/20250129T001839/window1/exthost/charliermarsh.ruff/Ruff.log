@@ -1,0 +1,11 @@
+2025-01-29 00:18:46.544 [info] Name: Ruff
+2025-01-29 00:18:46.544 [info] Module: ruff
+2025-01-29 00:18:46.544 [info] Python extension loading
+2025-01-29 00:18:46.544 [info] Waiting for interpreter from python extension.
+2025-01-29 00:18:47.937 [info] Python extension loaded
+2025-01-29 00:18:47.947 [info] Using interpreter: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:18:48.169 [info] Using environment executable: /usr/bin/ruff
+2025-01-29 00:18:48.183 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-01-29 00:18:48.192 [info] Found Ruff 0.8.4 at /usr/bin/ruff
+2025-01-29 00:18:48.192 [info] Server run command: /usr/bin/ruff server
+2025-01-29 00:18:48.195 [info] Server: Start requested.

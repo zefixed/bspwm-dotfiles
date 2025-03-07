@@ -1,0 +1,6 @@
+2025/02/01-14:17:01.237 1bc43 Creating DB /home/zefixed/.config/Postman/Partitions/d4a0008c-4925-4292-8c35-f95b3f16ed98/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2025/02/01-14:17:01.247 1bc43 Reusing MANIFEST /home/zefixed/.config/Postman/Partitions/d4a0008c-4925-4292-8c35-f95b3f16ed98/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/02/01-14:17:01.259 1bc43 Level-0 table #5: started
+2025/02/01-14:17:01.262 1bc43 Level-0 table #5: 494 bytes OK
+2025/02/01-14:17:01.267 1bc43 Delete type=0 #3
+2025/02/01-14:17:01.267 1bc43 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

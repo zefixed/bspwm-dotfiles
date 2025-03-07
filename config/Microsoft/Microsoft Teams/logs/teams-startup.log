@@ -1,0 +1,12 @@
+Fontconfig error: "/home/zefixed/.config/fontconfig/fonts.conf", line 10: Opening and ending tag mismatch: fontconfig line 0 and alias
+
+Error while parsing hooks JSON. Error: ENOENT: no such file or directory, open '/home/zefixed/.config/Microsoft/Microsoft Teams/hooks.json'
+(node:96834) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+Fontconfig error: "/home/zefixed/.config/fontconfig/fonts.conf", line 10: mismatched tag
+(node:96834) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:96834) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'
+Error occurred in handler for 'setSelectedAudioOutputDevice': No handler registered for 'setSelectedAudioOutputDevice'

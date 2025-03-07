@@ -1,0 +1,24 @@
+2025-01-29 00:20:50.106 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-29 00:20:50.106 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-29 00:20:50.106 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-29 00:20:50.795 [info] Started local extension host with pid 81209.
+2025-01-29 00:20:52.815 [info] Settings Sync: Token updated for the account zefixed
+2025-01-29 00:20:52.817 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-29 00:20:53.688 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/zefixed/Documents/python/lzparser/lzparser.py' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/zefixed/Documents/python/lzparser/lzparser.py') file:///home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:20:54.000 [info] [perf] Render performance baseline is 136ms
+2025-01-29 00:20:56.266 [error] [Extension Host] (node:81209) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-01-29 00:20:57.134 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.
+2025-01-29 00:20:59.651 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/zefixed/Documents/python/lzparser/lzparser.py' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/zefixed/Documents/python/lzparser/lzparser.py') file:///home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:21:04.413 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: No polkit authentication agent found. file:///home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:21:15.615 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/zefixed/Documents/python/lzparser/lzparser.py' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/home/zefixed/Documents/python/lzparser/lzparser.py') file:///home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:24:08.892 [error] Cannot read properties of undefined (reading 'codeLenses'): TypeError: Cannot read properties of undefined (reading 'codeLenses')
+	at /home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1811765
+	at Array.map (<anonymous>)
+	at P (/home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1811739)
+	at e.<anonymous> (/home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1817638)
+	at d (/home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802372)
+	at Generator.<anonymous> (/home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1803714)
+	at Generator.next (/home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1802801)
+	at a (/home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1808928)
+	at s (/home/zefixed/.vscode/extensions/codeium.codeium-1.30.18/dist/extension.js:2:1809131)

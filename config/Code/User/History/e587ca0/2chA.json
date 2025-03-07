@@ -1,0 +1,52 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.fontSize": 18,
+  "liveSassCompile.settings.useNewCompiler": false,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css"
+    }
+  ],
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.cursorBlinking": "expand",
+  "liveSassCompile.settings.includeItems": [],
+  "workbench.editor.empty.hint": "hidden",
+  "editor.formatOnSave": true,
+  "python.languageServer": "Pylance",
+  "CodeGPT.apiKey": "OpenAI",
+  "CodeGPT.Autocomplete.enabled": true,
+  "git.openRepositoryInParentFolders": "never",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "vscode-office.editorTheme": "Auto",
+  "go.toolsManagement.autoUpdate": true,
+  "codeium.enableConfig": {
+    "*": true,
+    "plaintext": true,
+    "go.mod": true,
+    "pip-requirements": true,
+    "ignore": true,
+    "log": true,
+    "markdown": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "go.lintTool": "golangci-lint",
+  "go.lintFlags": ["--fast"],
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "workbench.editorAssociations": {
+    "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default"
+  },
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontFamily": "'Consolas', 'monospace', monospace"
+}

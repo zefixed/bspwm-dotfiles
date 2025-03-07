@@ -1,0 +1,6 @@
+2025/02/09-16:46:43.977 ad44 Reusing MANIFEST /home/zefixed/.config/Postman/Partitions/d4a0008c-4925-4292-8c35-f95b3f16ed98/Local Storage/leveldb/MANIFEST-000001
+2025/02/09-16:46:43.989 ad44 Recovering log #3
+2025/02/09-16:46:43.990 ad44 Reusing old log /home/zefixed/.config/Postman/Partitions/d4a0008c-4925-4292-8c35-f95b3f16ed98/Local Storage/leveldb/000003.log 
+2025/02/09-17:07:47.099 ad44 Level-0 table #5: started
+2025/02/09-17:07:47.104 ad44 Level-0 table #5: 15877 bytes OK
+2025/02/09-17:07:47.108 ad44 Delete type=0 #3

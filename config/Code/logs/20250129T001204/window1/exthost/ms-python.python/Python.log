@@ -1,0 +1,47 @@
+2025-01-29 00:12:46.890 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-29 00:12:46.890 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-29 00:12:46.890 [info] Experiment 'pythonTestAdapter' is active
+2025-01-29 00:12:46.896 [info] Native locator: Refresh started
+2025-01-29 00:12:46.916 [error] Python discovery not supported in untrusted workspace
+2025-01-29 00:12:46.916 [info] Native locator: Refresh finished in 21 ms
+2025-01-29 00:12:47.009 [info] > pyenv which python
+2025-01-29 00:12:47.009 [info] cwd: .
+2025-01-29 00:12:47.028 [info] > python -c "import sys;print(sys.executable)"
+2025-01-29 00:12:47.058 [error] Python discovery not supported in untrusted workspace
+2025-01-29 00:12:47.058 [error] Invalid environment [native]: {}
+2025-01-29 00:12:52.546 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-29 00:12:52.546 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-29 00:12:52.546 [info] Experiment 'pythonTestAdapter' is active
+2025-01-29 00:12:52.546 [info] Native locator: Refresh started
+2025-01-29 00:12:52.546 [info] Native locator: Refresh started
+2025-01-29 00:12:52.593 [info] > pyenv which python
+2025-01-29 00:12:52.593 [info] cwd: .
+2025-01-29 00:12:52.766 [info] Native locator: Refresh finished in 430 ms
+2025-01-29 00:12:52.814 [info] Python interpreter path: ./venv/bin/python
+2025-01-29 00:12:53.040 [info] Shell integration status changed, can confirm it's working.
+2025-01-29 00:12:53.051 [info] > . ./venv/bin/activate.fish && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-29 00:12:53.051 [info] shell: fish
+2025-01-29 00:12:53.109 [info] > /sbin/python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-29 00:12:53.109 [info] shell: fish
+2025-01-29 00:12:53.159 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:12:53.159 [info] Setting environment variable VIRTUAL_ENV in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:12:53.159 [info] Setting environment variable _OLD_FISH_PROMPT_OVERRIDE in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:12:53.159 [info] Prepending environment variable PATH in collection with /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish:/home/zefixed/Documents/python/lzparser/venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:12:53.160 [info] Send text to terminal: /sbin/python /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish/envVars.txt
+2025-01-29 00:12:53.540 [info] Starting Pylance language server.
+2025-01-29 00:12:53.789 [info] > . ./venv/bin/activate.fish && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-29 00:12:53.789 [info] shell: fish
+2025-01-29 00:12:53.840 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:12:53.840 [info] Setting environment variable VIRTUAL_ENV in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:12:53.840 [info] Setting environment variable _OLD_FISH_PROMPT_OVERRIDE in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:12:53.840 [info] Prepending environment variable PATH in collection with /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish:/home/zefixed/Documents/python/lzparser/venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:13:29.385 [error] Python discovery not supported in untrusted workspace
+2025-01-29 00:13:29.385 [error] Invalid environment [native]: {}
+2025-01-29 00:13:29.571 [info] Discover tests for workspace name: undefined - uri: /home/zefixed/.config/Code/User/settings.json
+2025-01-29 00:13:39.341 [info] Native locator: Refresh started
+2025-01-29 00:13:39.574 [info] Native locator: Refresh finished in 232 ms
+2025-01-29 00:13:52.012 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser
+2025-01-29 00:13:52.018 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:13:52.018 [info] Setting environment variable VIRTUAL_ENV in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:13:52.018 [info] Setting environment variable _OLD_FISH_PROMPT_OVERRIDE in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:13:52.018 [info] Prepending environment variable PATH in collection with /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish:/home/zefixed/Documents/python/lzparser/venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}

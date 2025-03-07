@@ -1,0 +1,104 @@
+2025-01-29 00:20:53.944 [info] Starting Python Locator /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python-env-tools/bin/pet server
+2025-01-29 00:20:53.944 [info] Discovered env: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:20:56.426 [info] Discovered env: /bin/python
+2025-01-29 00:20:56.607 [info] Discovered env: /usr/bin/python
+2025-01-29 00:20:57.315 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:20:57.316 [info] Discovered env: /usr/sbin/python
+2025-01-29 00:20:57.495 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:20:57.496 [info] Discovered env: /sbin/python
+2025-01-29 00:20:57.499 [info] Discovered env: /usr/bin/python3
+2025-01-29 00:20:57.501 [info] Discovered env: /bin/python3
+2025-01-29 00:20:57.503 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:20:57.507 [info] Discovered env: /usr/sbin/python3
+2025-01-29 00:20:57.511 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:20:57.617 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:20:57.646 [info] Discovered env: /sbin/python3
+2025-01-29 00:20:57.652 [info] Discovered env: /usr/bin/python3.13
+2025-01-29 00:20:57.653 [info] Discovered env: /bin/python3.13
+2025-01-29 00:20:57.654 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:20:57.760 [info] Discovered env: /sbin/python3.13
+2025-01-29 00:20:57.766 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:20:57.777 [info] Discovered env: /usr/sbin/python3.13
+2025-01-29 00:20:57.778 [info] Locator Conda took 138.529732ms
+2025-01-29 00:20:57.778 [info] Locator Homebrew took 223.705µs
+2025-01-29 00:20:57.778 [info] Locator LinuxGlobal took 124.300483ms
+2025-01-29 00:20:57.779 [info] Locator PipEnv took 24.095µs
+2025-01-29 00:20:57.779 [info] Locator Poetry took 394.05µs
+2025-01-29 00:20:57.779 [info] Locator PyEnv took 374.774µs
+2025-01-29 00:20:57.780 [info] Locator Venv took 91.564µs
+2025-01-29 00:20:57.780 [info] Locator VirtualEnv took 530.313µs
+2025-01-29 00:20:57.780 [info] Locator VirtualEnvWrapper took 46.306µs
+2025-01-29 00:20:57.780 [info] Locator GlobalVirtualEnvs took 2.27637ms
+2025-01-29 00:20:57.781 [info] Locator Locators took 139.107048ms
+2025-01-29 00:20:57.781 [info] Locator Path took 203.90344ms
+2025-01-29 00:20:57.781 [info] Locator Workspaces took 36.455508ms
+2025-01-29 00:20:57.782 [info] Refresh completed in 204ms
+2025-01-29 00:20:57.785 [info] Resolved /usr/bin/python3
+2025-01-29 00:20:57.787 [info] Resolved /bin/python3
+2025-01-29 00:20:57.789 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:20:57.822 [info] Resolved /usr/bin/python3.13
+2025-01-29 00:20:57.824 [info] Resolved /bin/python3.13
+2025-01-29 00:22:38.092 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:22:40.814 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:23:15.292 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:23:52.120 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:27:06.608 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:28:07.373 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:28:37.590 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:29:49.031 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:31:07.780 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:31:39.231 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:32:58.702 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:34:51.178 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:35:23.642 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:35:56.269 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:36:27.567 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:36:59.439 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:38:08.610 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:40:34.257 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:41:13.881 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:41:48.042 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:42:29.722 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:43:03.719 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:44:59.917 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:45:36.813 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:47:09.443 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:47:44.394 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:48:22.499 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:48:56.508 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:50:43.219 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:51:23.158 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:53:11.952 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:54:39.927 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:55:44.901 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:56:29.342 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:57:00.550 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:58:49.864 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:59:25.169 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:00:00.669 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:01:00.012 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:01:40.982 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:02:12.890 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:02:51.988 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:07:20.997 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:10:57.610 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:23:01.516 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:23:58.528 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:25:11.188 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:26:52.097 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:27:24.141 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:28:03.725 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:28:43.793 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:29:33.535 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:30:21.781 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:31:19.203 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:32:09.771 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:32:45.531 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:33:26.675 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:33:59.602 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:34:41.926 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:35:28.555 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:36:04.969 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:36:49.378 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:37:22.599 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 01:54:20.146 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python

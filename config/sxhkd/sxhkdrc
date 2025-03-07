@@ -1,5 +1,3 @@
-
-
 # reloads sxhkd configuration:
 super + Escape + r
     pkill -USR1 -x sxhkd; notify-send 'sxhkd' 'Reloaded config' -t 1500
@@ -13,8 +11,11 @@ super + p
 	sh $HOME/bin/toggle-polybar
 
 # Set random wallpaper
-super + w
-	sh $HOME/bin/random_wallpaper
+super + {_, shift + , ctrl + }w
+	sh $HOME/bin/{random_wallpaper,black_wallpaper,anime_wallpaper}
+
+#super + w
+#	sh $HOME/bin/random_wallpaper
 
 # Change language
 Alt_L + shift
@@ -28,7 +29,7 @@ super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
 
 # Launch Applications
-super + shift + {f,n,p,t,c,v,i,x,q,k,l}
+super + shift + {f,n,p,t,c,v,i,x,q,k,l,d,s,o}
 	{firefox, \
 	thunar, \
 	pavucontrol, \
@@ -39,7 +40,10 @@ super + shift + {f,n,p,t,c,v,i,x,q,k,l}
 	sh $HOME/bin/xcolor-pick, \
 	sh $HOME/bin/bible, \
 	alacritty -e calcurse, \
-	sh $HOME/bin/screen-lock}
+	sh $HOME/bin/screen-lock, \
+    discord, \
+    spotify-launcher, \
+    obsidian}
      
 # Select window to close
 ctrl + super + alt + k
@@ -99,8 +103,12 @@ super + {grave,Tab}
 	bspc {node,desktop} -f last
 
 # send focus window to current desktop
-super + {_,shift + }{1-9,0}
-	bspc {desktop -f,node -d} '^{1-9,10}'
+#super + {_,shift + }{1-9,0}
+#	bspc {desktop -f,node -d} '^{1-9,10}'
+
+super + {_,shift + }{1,2,3,4,5,6,7,8,9,0}
+	bspc {desktop -f,node -d} '^{6,7,8,9,10,1,2,3,4,5}'
+
 
 #
 # preselect
@@ -142,3 +150,5 @@ super + ctrl + {m,x,y,z}
 # swap the current node and the biggest window
 super + g
 	bspc node -s biggest.window
+    
+

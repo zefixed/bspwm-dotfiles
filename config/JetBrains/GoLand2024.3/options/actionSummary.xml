@@ -1,0 +1,79 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="3" l="1739111974374" />
+    </e>
+    <e n="$Undo">
+      <i c="13" l="1739113014245" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="27" l="1739113340761" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1739112640394" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1739112382739" />
+    </e>
+    <e n="EditorCopy">
+      <i c="11" l="1739113346160" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1739112567509" />
+    </e>
+    <e n="EditorDelete">
+      <i c="4" l="1739112602942" />
+    </e>
+    <e n="EditorDown">
+      <i c="6" l="1739112640124" />
+    </e>
+    <e n="EditorEnter">
+      <i c="18" l="1739113357508" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1739112708275" />
+    </e>
+    <e n="EditorPaste">
+      <i c="16" l="1739113358676" />
+    </e>
+    <e n="EditorTab">
+      <i c="3" l="1739112968869" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1739113358179" />
+    </e>
+    <e n="SaveAll">
+      <i c="22" l="1739113361712" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1739111542126" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1739111632879" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1739111643137" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1739111481969" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="16" l="1739113109530" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1739113325482" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1739111609363" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1739111540533" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="7" l="1739113113815" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1739111644127" />
+    </e>
+  </component>
+</application>

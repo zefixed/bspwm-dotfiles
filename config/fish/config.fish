@@ -4,6 +4,15 @@ alias cls="clear"
 alias g="git"
 alias n="nvim"
 alias m="micro"
+alias sudo="sudo -E"
+
+function sudo
+    if test "$argv[1]" = "n"
+        command sudo -E nvim $argv[2..-1]
+    else
+        command sudo $argv
+    end
+end
 
 # TODO: Replace journal aliases after switching to OpenRC
 
@@ -28,7 +37,13 @@ set -gx EDITOR micro
 set -gx VISUAL micro
 set -gx BROWSER /usr/bin/firefox
 
+set -gx GOPATH $HOME/go
+set -gx GOBIN $HOME/go/bin
+set -gx PATH $GOBIN $PATH
+
 
 if status is-interactive
     # Commands to run in interactive sessions can go here
 end
+
+xset -b

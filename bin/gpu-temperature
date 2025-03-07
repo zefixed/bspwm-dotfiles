@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Получение температуры видеокарты
+temperature=$(nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader,nounits)
+
+# Установка порога предупреждения
+warn_temperature=70
+
+# Проверка, превышает ли температура порог
+if [ "$temperature" -ge "$warn_temperature" ]; then
+    # Если температура превышает порог, выводим предупреждение (можно изменить формат)
+    echo "%{F#f3a4a4} $temperature°C%{F-}"
+else
+    # Если температура ниже порога, просто выводим температуру
+    echo "%{F#a4f3b3} $temperature°C%{F-}"
+fi
+

@@ -1,0 +1,42 @@
+2025-01-29 00:15:41.903 [info] Starting Python Locator /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python-env-tools/bin/pet server
+2025-01-29 00:15:45.424 [info] Discovered env: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:15:45.473 [info] Discovered env: /bin/python
+2025-01-29 00:15:45.481 [info] Discovered env: /usr/bin/python
+2025-01-29 00:15:45.486 [info] Discovered env: /bin/python3
+2025-01-29 00:15:45.488 [info] Env ("/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:15:45.488 [info] Discovered env: /sbin/python
+2025-01-29 00:15:45.489 [info] Discovered env: /usr/bin/python3
+2025-01-29 00:15:45.595 [info] Env ("/usr/sbin/python") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:15:45.634 [info] Discovered env: /usr/sbin/python
+2025-01-29 00:15:45.638 [info] Discovered env: /bin/python3.13
+2025-01-29 00:15:45.638 [info] Discovered env: /usr/bin/python3.13
+2025-01-29 00:15:45.639 [info] Env ("/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:15:45.639 [info] Discovered env: /sbin/python3
+2025-01-29 00:15:45.646 [info] Env ("/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/sbin/python3.13", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:15:45.646 [info] Discovered env: /sbin/python3.13
+2025-01-29 00:15:45.647 [info] Env ("/usr/sbin/python3") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:15:45.647 [info] Discovered env: /usr/sbin/python3
+2025-01-29 00:15:45.648 [info] Env ("/usr/sbin/python3.13") in Path resolved as ResolvedPythonEnv { executable: "/usr/sbin/python3.13", prefix: "/usr", version: "3.13.1.final.0", is64_bit: true, symlinks: Some(["/usr/sbin/python3.13"]) } and reported as Some(GlobalPaths)
+2025-01-29 00:15:45.650 [info] Discovered env: /usr/sbin/python3.13
+2025-01-29 00:15:45.651 [info] Locator Conda took 126.421336ms
+2025-01-29 00:15:45.651 [info] Locator Homebrew took 545.049µs
+2025-01-29 00:15:45.653 [info] Locator LinuxGlobal took 133.012769ms
+2025-01-29 00:15:45.653 [info] Locator PipEnv took 23.398µs
+2025-01-29 00:15:45.653 [info] Locator Poetry took 212.46µs
+2025-01-29 00:15:45.658 [info] Locator PyEnv took 3.140946ms
+2025-01-29 00:15:45.659 [info] Locator Venv took 2.530036ms
+2025-01-29 00:15:45.661 [info] Locator VirtualEnv took 29.403µs
+2025-01-29 00:15:45.661 [info] Locator VirtualEnvWrapper took 45.676µs
+2025-01-29 00:15:45.661 [info] Locator GlobalVirtualEnvs took 235.089µs
+2025-01-29 00:15:45.662 [info] Locator Locators took 142.089959ms
+2025-01-29 00:15:45.662 [info] Locator Path took 201.267027ms
+2025-01-29 00:15:45.662 [info] Locator Workspaces took 41.725303ms
+2025-01-29 00:15:45.663 [info] Refresh completed in 201ms
+2025-01-29 00:15:45.671 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:15:45.922 [info] Resolved /bin/python
+2025-01-29 00:15:45.935 [info] Resolved /bin/python3
+2025-01-29 00:15:45.937 [info] Resolved /usr/bin/python3
+2025-01-29 00:15:45.939 [info] Resolved /usr/bin/python3.13
+2025-01-29 00:15:45.945 [info] Resolved /bin/python3.13
+2025-01-29 00:15:45.948 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:16:38.665 [info] Resolved Python Environment /home/zefixed/Documents/python/lzparser/venv/bin/python

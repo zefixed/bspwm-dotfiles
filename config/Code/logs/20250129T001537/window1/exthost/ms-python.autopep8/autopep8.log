@@ -1,0 +1,98 @@
+2025-01-29 00:15:43.356 [info] Name: autopep8
+2025-01-29 00:15:43.356 [info] Module: autopep8
+2025-01-29 00:15:43.356 [info] Default formatter is set to charliermarsh.ruff for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:15:43.356 [warning] autopep8 Formatter is NOT set as the default formatter for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:15:43.356 [warning] To set autopep8 Formatter as the default formatter, add the following to your settings.json file:
+2025-01-29 00:15:43.356 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+}
+2025-01-29 00:15:43.356 [info] Python extension loading
+2025-01-29 00:15:43.356 [info] Waiting for interpreter from python extension.
+2025-01-29 00:15:45.688 [info] No interpreter found from setting autopep8.interpreter
+2025-01-29 00:15:45.688 [info] Getting interpreter from ms-python.python extension for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:15:45.688 [info] Python extension loaded
+2025-01-29 00:15:45.707 [info] Interpreter from ms-python.python extension for /home/zefixed/Documents/python/lzparser: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:15:45.764 [info] No interpreter found from setting autopep8.interpreter
+2025-01-29 00:15:45.764 [info] Getting interpreter from ms-python.python extension for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:15:45.797 [info] Interpreter from ms-python.python extension for /home/zefixed/Documents/python/lzparser: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:15:45.840 [info] Server run command: /home/zefixed/Documents/python/lzparser/venv/bin/python /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/tool/lsp_server.py
+2025-01-29 00:15:45.842 [info] Server: Start requested.
+2025-01-29 00:15:46.724 [info] CWD Server: /home/zefixed/Documents/python/lzparser
+2025-01-29 00:15:46.725 [info] sys.path used to run Server:
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/libs
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/zefixed/Documents/python/lzparser/venv/lib/python3.13/site-packages
+2025-01-29 00:15:46.726 [info] PYTHONPATH env variable used to run Server:
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/libs:
+2025-01-29 00:15:46.726 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/zefixed/Documents/python/lzparser",
+        "workspace": "file:///home/zefixed/Documents/python/lzparser",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/zefixed/Documents/python/lzparser/venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-01-29 00:15:46.726 [info] Global settings:
+{
+    "cwd": "/home/zefixed",
+    "workspace": "/home/zefixed",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-01-29 00:15:46.727 [info] /home/zefixed/Documents/python/lzparser/venv/bin/python -m autopep8 --version
+2025-01-29 00:15:46.727 [info] CWD Server: /home/zefixed/Documents/python/lzparser
+2025-01-29 00:15:46.799 [info] Version info for formatter running for /home/zefixed/Documents/python/lzparser:
+autopep8 2.1.0 (pycodestyle: 2.11.1)
+
+2025-01-29 00:15:46.799 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.1.0
+
+2025-01-29 00:15:47.835 [info] [Trace - 12:15:47 AM] Sending notification 'textDocument/didClose'.
+2025-01-29 00:15:47.862 [info] [Trace - 12:15:47 AM] Sending notification 'textDocument/didOpen'.
+2025-01-29 00:15:48.599 [info] [Trace - 12:15:48 AM] Sending notification 'textDocument/didClose'.
+2025-01-29 00:15:48.611 [info] [Trace - 12:15:48 AM] Sending notification 'textDocument/didOpen'.
+2025-01-29 00:15:49.044 [info] [Trace - 12:15:49 AM] Sending notification 'textDocument/didClose'.
+2025-01-29 00:15:49.076 [info] [Trace - 12:15:49 AM] Sending notification 'textDocument/didOpen'.
+2025-01-29 00:15:53.335 [info] [Trace - 12:15:53 AM] Sending notification 'textDocument/didClose'.
+2025-01-29 00:15:53.355 [info] [Trace - 12:15:53 AM] Sending notification 'textDocument/didOpen'.
+2025-01-29 00:15:54.480 [info] [Trace - 12:15:54 AM] Sending notification 'textDocument/didClose'.
+2025-01-29 00:15:54.505 [info] [Trace - 12:15:54 AM] Sending notification 'textDocument/didOpen'.
+2025-01-29 00:16:06.609 [info] [Trace - 12:16:06 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:06.811 [info] [Trace - 12:16:06 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:07.250 [info] [Trace - 12:16:07 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:12.651 [info] [Trace - 12:16:12 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:12.744 [info] [Trace - 12:16:12 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:12.883 [info] [Trace - 12:16:12 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:13.194 [info] [Trace - 12:16:13 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:13.373 [info] [Trace - 12:16:13 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:43.297 [info] [Trace - 12:16:43 AM] Sending notification 'textDocument/didOpen'.
+2025-01-29 00:16:43.340 [info] [Trace - 12:16:43 AM] Sending notification 'textDocument/didClose'.
+2025-01-29 00:16:56.930 [info] [Trace - 12:16:56 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:57.045 [info] [Trace - 12:16:57 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:57.192 [info] [Trace - 12:16:57 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:58.151 [info] [Trace - 12:16:58 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:58.918 [info] [Trace - 12:16:58 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:59.138 [info] [Trace - 12:16:59 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:59.206 [info] [Trace - 12:16:59 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:16:59.328 [info] [Trace - 12:16:59 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:17:01.742 [info] [Trace - 12:17:01 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:17:05.604 [info] [Trace - 12:17:05 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:17:05.659 [info] [Trace - 12:17:05 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:17:08.465 [info] [Trace - 12:17:08 AM] Sending notification 'textDocument/didChange'.
+2025-01-29 00:17:11.506 [info] [Trace - 12:17:11 AM] Sending notification 'textDocument/didOpen'.
+2025-01-29 00:17:11.509 [info] [Trace - 12:17:11 AM] Sending notification 'textDocument/didClose'.

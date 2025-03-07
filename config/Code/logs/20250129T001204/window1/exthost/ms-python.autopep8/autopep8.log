@@ -1,0 +1,71 @@
+2025-01-29 00:12:51.519 [info] Name: autopep8
+2025-01-29 00:12:51.519 [info] Module: autopep8
+2025-01-29 00:12:51.519 [info] Default formatter is set to charliermarsh.ruff for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:12:51.519 [warning] autopep8 Formatter is NOT set as the default formatter for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:12:51.519 [warning] To set autopep8 Formatter as the default formatter, add the following to your settings.json file:
+2025-01-29 00:12:51.519 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+}
+2025-01-29 00:12:51.519 [info] Python extension loading
+2025-01-29 00:12:51.519 [info] Waiting for interpreter from python extension.
+2025-01-29 00:12:51.519 [info] No interpreter found from setting autopep8.interpreter
+2025-01-29 00:12:51.519 [info] Getting interpreter from ms-python.python extension for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:12:51.519 [info] Python extension loaded
+2025-01-29 00:12:51.622 [info] No interpreter found for /home/zefixed/Documents/python/lzparser in settings or from ms-python.python extension
+2025-01-29 00:12:51.623 [error] Python interpreter missing:
+[Option 1] Select python interpreter using the ms-python.python.
+[Option 2] Set an interpreter using "autopep8.interpreter" setting.
+ Please use Python 3.8 or greater.
+2025-01-29 00:13:52.003 [info] No interpreter found from setting autopep8.interpreter
+2025-01-29 00:13:52.003 [info] Getting interpreter from ms-python.python extension for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:13:52.011 [info] Interpreter from ms-python.python extension for /home/zefixed/Documents/python/lzparser: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:13:52.013 [info] No interpreter found from setting autopep8.interpreter
+2025-01-29 00:13:52.013 [info] Getting interpreter from ms-python.python extension for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:13:52.015 [info] Interpreter from ms-python.python extension for /home/zefixed/Documents/python/lzparser: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:13:52.027 [info] Server run command: /home/zefixed/Documents/python/lzparser/venv/bin/python /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/tool/lsp_server.py
+2025-01-29 00:13:52.030 [info] Server: Start requested.
+2025-01-29 00:13:53.087 [info] CWD Server: /home/zefixed/Documents/python/lzparser
+2025-01-29 00:13:53.087 [info] sys.path used to run Server:
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/libs
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/zefixed/Documents/python/lzparser/venv/lib/python3.13/site-packages
+2025-01-29 00:13:53.087 [info] PYTHONPATH env variable used to run Server:
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/libs:
+2025-01-29 00:13:53.088 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/zefixed/Documents/python/lzparser",
+        "workspace": "file:///home/zefixed/Documents/python/lzparser",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/zefixed/Documents/python/lzparser/venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-01-29 00:13:53.088 [info] Global settings:
+{
+    "cwd": "/home/zefixed",
+    "workspace": "/home/zefixed",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-01-29 00:13:53.092 [info] /home/zefixed/Documents/python/lzparser/venv/bin/python -m autopep8 --version
+2025-01-29 00:13:53.092 [info] CWD Server: /home/zefixed/Documents/python/lzparser
+2025-01-29 00:13:53.218 [info] Version info for formatter running for /home/zefixed/Documents/python/lzparser:
+autopep8 2.1.0 (pycodestyle: 2.11.1)
+
+2025-01-29 00:13:53.219 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.1.0
+

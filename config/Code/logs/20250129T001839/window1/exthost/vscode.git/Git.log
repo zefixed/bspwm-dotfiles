@@ -1,0 +1,40 @@
+2025-01-29 00:18:46.551 [info] [main] Log level: Info
+2025-01-29 00:18:46.551 [info] [main] Validating found git in: "git"
+2025-01-29 00:18:46.551 [info] [main] Using git "2.47.1" from "git"
+2025-01-29 00:18:46.551 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-29 00:18:46.551 [info] > git rev-parse --show-toplevel [1331ms]
+2025-01-29 00:18:46.551 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:46.551 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/Cache': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/Cache'
+2025-01-29 00:18:46.551 [info] > git rev-parse --show-toplevel [694ms]
+2025-01-29 00:18:46.551 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:46.608 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/Code Cache': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/Code Cache'
+2025-01-29 00:18:46.613 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/Crashpad': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/Crashpad'
+2025-01-29 00:18:46.619 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/DawnGraphiteCache': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/DawnGraphiteCache'
+2025-01-29 00:18:46.621 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/DawnWebGPUCache': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/DawnWebGPUCache'
+2025-01-29 00:18:46.623 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/Dictionaries': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/Dictionaries'
+2025-01-29 00:18:46.625 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/GPUCache': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/GPUCache'
+2025-01-29 00:18:46.626 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/Local Storage': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/Local Storage'
+2025-01-29 00:18:46.626 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/Session Storage': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/Session Storage'
+2025-01-29 00:18:46.745 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/Shared Dictionary': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/Shared Dictionary'
+2025-01-29 00:18:47.264 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/zefixed/Documents/python/lzparser/blob_storage': Error: EACCES: permission denied, scandir '/home/zefixed/Documents/python/lzparser/blob_storage'
+2025-01-29 00:18:47.450 [info] > git rev-parse --show-toplevel [111ms]
+2025-01-29 00:18:47.450 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.525 [info] > git rev-parse --show-toplevel [64ms]
+2025-01-29 00:18:47.525 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.552 [info] > git rev-parse --show-toplevel [9ms]
+2025-01-29 00:18:47.552 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.580 [info] > git rev-parse --show-toplevel [19ms]
+2025-01-29 00:18:47.580 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.636 [info] > git rev-parse --show-toplevel [42ms]
+2025-01-29 00:18:47.637 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.656 [info] > git rev-parse --show-toplevel [8ms]
+2025-01-29 00:18:47.656 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.688 [info] > git rev-parse --show-toplevel [6ms]
+2025-01-29 00:18:47.688 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.700 [info] > git rev-parse --show-toplevel [2ms]
+2025-01-29 00:18:47.700 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.776 [info] > git rev-parse --show-toplevel [37ms]
+2025-01-29 00:18:47.776 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.790 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-29 00:18:47.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-01-29 00:18:47.793 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

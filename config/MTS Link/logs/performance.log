@@ -1,0 +1,34 @@
+[2024-12-10 11:01:04.440] [info]  
+Start event by link
+[2024-12-10 11:01:04.479] [info]  AfterSignIn.tsx start
+[2024-12-10 11:01:04.663] [info]  AlreadyOnline.tsx start
+[2024-12-10 11:01:04.922] [info]  AfterSignIn.tsx start
+[2024-12-10 11:01:05.688] [info]  AfterSignIn.tsx start to handle event status
+[2024-12-10 11:01:05.695] [info]  Event.tsx iframe start loading
+[2024-12-10 11:01:09.182] [info]  Event.tsx iframe onLoad
+[2024-12-10 12:08:21.639] [info]  
+Start event by link
+[2024-12-10 12:08:21.666] [info]  Event.tsx iframe start loading
+[2024-12-10 12:08:23.641] [info]  Event.tsx iframe onLoad
+[2024-12-10 12:17:34.442] [info]  Event.tsx iframe start loading
+[2024-12-10 12:17:35.853] [info]  Event.tsx iframe onLoad
+[2024-12-17 12:13:47.075] [info]  
+Start event by link
+[2024-12-17 12:13:47.107] [info]  Event.tsx iframe start loading
+[2024-12-17 12:13:49.109] [info]  Event.tsx iframe onLoad
+[2024-12-17 12:19:25.081] [info]  Event.tsx iframe start loading
+[2024-12-17 12:19:25.759] [info]  Event.tsx iframe onLoad
+[2025-03-07 14:38:52.805] [info]  
+Start event by link
+[2025-03-07 14:38:52.837] [info]  AfterSignIn.tsx start
+[2025-03-07 14:38:52.885] [info]  
+Start event by link
+[2025-03-07 14:38:52.894] [info]  AfterSignIn.tsx start
+[2025-03-07 14:38:53.089] [info]  AfterSignIn.tsx start
+[2025-03-07 14:38:53.270] [info]  
+Start event by link
+[2025-03-07 14:38:53.291] [info]  Event.tsx iframe start loading
+[2025-03-07 14:38:53.441] [info]  AfterSignIn.tsx start to handle event status
+[2025-03-07 14:38:53.525] [info]  AfterSignIn.tsx start to handle event status
+[2025-03-07 14:38:53.638] [info]  AfterSignIn.tsx start to handle event status
+[2025-03-07 14:38:55.717] [info]  Event.tsx iframe onLoad

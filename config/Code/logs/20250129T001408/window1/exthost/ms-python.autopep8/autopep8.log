@@ -1,0 +1,64 @@
+2025-01-29 00:14:14.635 [info] Name: autopep8
+2025-01-29 00:14:14.635 [info] Module: autopep8
+2025-01-29 00:14:14.635 [info] Default formatter is set to charliermarsh.ruff for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:14:14.635 [warning] autopep8 Formatter is NOT set as the default formatter for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:14:14.635 [warning] To set autopep8 Formatter as the default formatter, add the following to your settings.json file:
+2025-01-29 00:14:14.635 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+}
+2025-01-29 00:14:14.635 [info] Python extension loading
+2025-01-29 00:14:14.635 [info] Waiting for interpreter from python extension.
+2025-01-29 00:14:16.887 [info] No interpreter found from setting autopep8.interpreter
+2025-01-29 00:14:16.887 [info] Getting interpreter from ms-python.python extension for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:14:16.887 [info] Python extension loaded
+2025-01-29 00:14:16.897 [info] Interpreter from ms-python.python extension for /home/zefixed/Documents/python/lzparser: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:14:16.930 [info] No interpreter found from setting autopep8.interpreter
+2025-01-29 00:14:16.930 [info] Getting interpreter from ms-python.python extension for workspace /home/zefixed/Documents/python/lzparser
+2025-01-29 00:14:16.947 [info] Interpreter from ms-python.python extension for /home/zefixed/Documents/python/lzparser: /home/zefixed/Documents/python/lzparser/venv/bin/python
+2025-01-29 00:14:16.962 [info] Server run command: /home/zefixed/Documents/python/lzparser/venv/bin/python /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/tool/lsp_server.py
+2025-01-29 00:14:16.964 [info] Server: Start requested.
+2025-01-29 00:14:17.938 [info] CWD Server: /home/zefixed/Documents/python/lzparser
+2025-01-29 00:14:17.938 [info] sys.path used to run Server:
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/libs
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/tool
+   /usr/lib/python313.zip
+   /usr/lib/python3.13
+   /usr/lib/python3.13/lib-dynload
+   /home/zefixed/Documents/python/lzparser/venv/lib/python3.13/site-packages
+2025-01-29 00:14:17.939 [info] PYTHONPATH env variable used to run Server:
+   /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/bundled/libs:
+2025-01-29 00:14:17.939 [info] Settings used to run Server:
+[
+    {
+        "cwd": "/home/zefixed/Documents/python/lzparser",
+        "workspace": "file:///home/zefixed/Documents/python/lzparser",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/zefixed/Documents/python/lzparser/venv/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2025-01-29 00:14:17.939 [info] Global settings:
+{
+    "cwd": "/home/zefixed",
+    "workspace": "/home/zefixed",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2025-01-29 00:14:17.940 [info] /home/zefixed/Documents/python/lzparser/venv/bin/python -m autopep8 --version
+2025-01-29 00:14:17.940 [info] CWD Server: /home/zefixed/Documents/python/lzparser
+2025-01-29 00:14:18.029 [info] Version info for formatter running for /home/zefixed/Documents/python/lzparser:
+autopep8 2.1.0 (pycodestyle: 2.11.1)
+
+2025-01-29 00:14:18.029 [info] SUPPORTED autopep8>=1.7.0
+FOUND autopep8==2.1.0
+

@@ -1,0 +1,32 @@
+2025-01-29 00:18:48.562 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-29 00:18:48.754 [info] [Info  - 12:18:48 AM] (80196) Server root directory: file:///home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-29 00:18:48.755 [info] [Info  - 12:18:48 AM] (80196) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-29 00:18:48.764 [info] [Info  - 12:18:48 AM] (80196) Starting service instance "lzparser"
+2025-01-29 00:18:48.829 [info] [Info  - 12:18:48 AM] (80196) Setting environmentName for service "lzparser": "3.13.1 (venv venv)"
+2025-01-29 00:18:48.830 [info] [Info  - 12:18:48 AM] (80196) Setting pythonPath for service "lzparser": "/home/zefixed/Documents/python/lzparser/venv/bin/python"
+2025-01-29 00:18:48.830 [info] [Info  - 12:18:48 AM] (80196) No include entries specified; assuming /home/zefixed/Documents/python/lzparser
+2025-01-29 00:18:48.831 [info] [Info  - 12:18:48 AM] (80196) Auto-excluding **/node_modules
+2025-01-29 00:18:48.831 [info] [Info  - 12:18:48 AM] (80196) Auto-excluding **/__pycache__
+2025-01-29 00:18:48.831 [info] [Info  - 12:18:48 AM] (80196) Auto-excluding **/.*
+2025-01-29 00:18:48.864 [info] [Info  - 12:18:48 AM] (80196) Assuming Python version 3.13.1.final.0
+2025-01-29 00:18:48.947 [info] [Info  - 12:18:48 AM] (80196) Auto-excluding /home/zefixed/Documents/python/lzparser/venv
+2025-01-29 00:18:48.957 [info] [Info  - 12:18:48 AM] (80196) Found 7 source files
+2025-01-29 00:18:49.216 [info] [Info  - 12:18:49 AM] (80196) Starting service instance "<default>"
+2025-01-29 00:18:49.240 [info] [Info  - 12:18:49 AM] (80196) Setting environmentName for service "<default>": "3.13.1 (venv venv)"
+2025-01-29 00:18:49.241 [info] [Info  - 12:18:49 AM] (80196) Setting pythonPath for service "<default>": "/home/zefixed/Documents/python/lzparser/venv/bin/python"
+2025-01-29 00:18:49.242 [info] [Info  - 12:18:49 AM] (80196) No include entries specified; assuming /<default workspace root>
+2025-01-29 00:18:49.242 [info] [Info  - 12:18:49 AM] (80196) Auto-excluding **/node_modules
+2025-01-29 00:18:49.243 [info] [Info  - 12:18:49 AM] (80196) Auto-excluding **/__pycache__
+2025-01-29 00:18:49.243 [info] [Info  - 12:18:49 AM] (80196) Auto-excluding **/.*
+2025-01-29 00:18:49.283 [info] [Info  - 12:18:49 AM] (80196) Assuming Python version 3.13.1.final.0
+2025-01-29 00:18:49.348 [info] [Error - 12:18:49 AM] (80196) File or directory "/<default workspace root>" does not exist.
+2025-01-29 00:18:49.348 [info] [Info  - 12:18:49 AM] (80196) No source files found.
+2025-01-29 00:18:49.597 [info] [Info  - 12:18:49 AM] (80196) Background analysis(1) root directory: file:///home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-29 00:18:49.601 [info] [Info  - 12:18:49 AM] (80196) Background analysis(1) started
+2025-01-29 00:18:49.701 [info] [Info  - 12:18:49 AM] (80196) Indexer background runner(2) root directory: file:///home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-29 00:18:49.701 [info] [Info  - 12:18:49 AM] (80196) Indexing(2) started
+2025-01-29 00:18:50.131 [info] [Info  - 12:18:50 AM] (80196) Background analysis(3) root directory: file:///home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-29 00:18:50.134 [info] [Info  - 12:18:50 AM] (80196) Background analysis(3) started
+2025-01-29 00:18:50.601 [info] [Info  - 12:18:50 AM] (80196) scanned(2) 53 files over 1 exec env
+2025-01-29 00:18:50.761 [info] [Info  - 12:18:50 AM] (80196) indexed(2) 53 files over 1 exec env
+2025-01-29 00:18:51.093 [info] [Info  - 12:18:51 AM] (80196) Indexing finished(2).

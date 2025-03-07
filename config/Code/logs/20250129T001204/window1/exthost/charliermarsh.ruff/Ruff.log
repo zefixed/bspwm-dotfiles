@@ -1,0 +1,12 @@
+2025-01-29 00:12:48.487 [info] Name: Ruff
+2025-01-29 00:12:48.487 [info] Module: ruff
+2025-01-29 00:12:48.487 [info] Resolved 'ruff.nativeServer: auto' to use the native server in an untrusted workspace
+2025-01-29 00:12:48.487 [info] Workspace is not trusted, using bundled executable: /home/zefixed/.vscode/extensions/charliermarsh.ruff-2025.4.0-linux-x64/bundled/libs/bin/ruff
+2025-01-29 00:12:48.487 [info] Found Ruff 0.9.3 at /home/zefixed/.vscode/extensions/charliermarsh.ruff-2025.4.0-linux-x64/bundled/libs/bin/ruff
+2025-01-29 00:12:48.487 [info] Server run command: /home/zefixed/.vscode/extensions/charliermarsh.ruff-2025.4.0-linux-x64/bundled/libs/bin/ruff server
+2025-01-29 00:12:48.487 [info] Server: Start requested.
+2025-01-29 00:12:48.748 [info] Server: Stop requested
+2025-01-29 00:12:48.843 [error] Python interpreter missing:
+[Option 1] Select Python interpreter using the ms-python.python.
+[Option 2] Set an interpreter using "ruff.interpreter" setting.
+Please use Python 3.7 or greater.

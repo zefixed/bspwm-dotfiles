@@ -1,0 +1,58 @@
+<application>
+  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
+  <component name="LangManager">
+    <option name="languageName" value="go" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="17.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.go.enabled.exportability.sorter": "true",
+    "RunOnceActivity.go.init.cfg.2": "true",
+    "RunOnceActivity.go.init.cfg.line.markers": "true",
+    "RunOnceActivity.go.optimizeImportsByDefault": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "RunOnceActivity.terminal.shell.command.handling.was.disabled.once": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "enter_selection_count": "4",
+    "evlsprt.243": "194be29d480",
+    "evlsprt3.243": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.23654.166",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "go.first.run.time": "1739111491580",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/zefixed/Documents/golang/timely",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "GO-243.23654.166",
+    "tab_selection_count": "1",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/zefixed/Documents/golang/timely"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.goide.execution.testing.frameworks.gofuzz.corpus.GoFuzzCorpusFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

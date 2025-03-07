@@ -1,0 +1,40 @@
+2025-01-29 00:07:37.482 [info] Extension host with pid 68536 started
+2025-01-29 00:07:37.720 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-29 00:07:37.867 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-29 00:07:37.875 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-29 00:07:37.970 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-29 00:07:38.120 [info] Eager extensions activated
+2025-01-29 00:07:38.138 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:07:38.141 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:07:43.630 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-01-29 00:08:05.661 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:08:05.679 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:08:05.778 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:08:05.868 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-29 00:08:33.392 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+2025-01-29 00:08:33.413 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:33.424 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:33.442 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:33.454 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:34.257 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:34.447 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:34.572 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:34.666 [info] ExtensionService#_doActivateExtension cweijan.vscode-office, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:35.063 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:08:35.313 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2025-01-29 00:08:36.853 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+	at /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+	at login (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async activate (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+	at async K0.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4447)
+	at async K0.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4410)
+	at async K0.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:3866)
+2025-01-29 00:11:39.303 [error] Activating extension Codeium.codeium failed due to an error:
+2025-01-29 00:11:39.303 [error] User Cancelled
+2025-01-29 00:11:59.709 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-29 00:11:59.817 [info] Extension host with pid 68536 exiting with code 0

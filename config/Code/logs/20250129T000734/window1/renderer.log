@@ -1,0 +1,15 @@
+2025-01-29 00:07:36.345 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-29 00:07:36.362 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-29 00:07:36.362 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-29 00:07:36.844 [info] Started local extension host with pid 68536.
+2025-01-29 00:07:36.917 [info] Started initializing default profile extensions in extensions installation folder. file:///home/zefixed/.vscode/extensions
+2025-01-29 00:07:37.148 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/zefixed/.vscode/extensions
+2025-01-29 00:07:37.697 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-29 00:07:40.521 [info] [perf] Render performance baseline is 162ms
+2025-01-29 00:07:42.878 [error] Timed out waiting for authentication provider to register
+2025-01-29 00:08:05.904 [info] Settings Sync: Updated current session e066af6f16c8b42a
+2025-01-29 00:08:06.018 [info] Settings Sync: Token updated for the account zefixed
+2025-01-29 00:08:06.023 [info] Settings Sync: Account status changed from unavailable to available
+2025-01-29 00:08:35.818 [error] [Extension Host] (node:68536) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-01-29 00:08:36.756 [warning] Authentication provider codeium_auth was not declared in the Extension Manifest.

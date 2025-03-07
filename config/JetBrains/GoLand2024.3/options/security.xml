@@ -1,0 +1,6 @@
+<application>
+  <component name="Elevation">
+    <option name="keepAuth" value="true" />
+    <option name="settingsUpdateDone" value="true" />
+  </component>
+</application>

@@ -1,0 +1,191 @@
+2025-01-29 00:12:07.315 [info] Extension host with pid 70869 started
+2025-01-29 00:12:07.376 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-29 00:12:07.467 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-29 00:12:07.470 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+2025-01-29 00:12:07.512 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-29 00:12:07.599 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-29 00:12:07.740 [info] Eager extensions activated
+2025-01-29 00:12:07.862 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:07.865 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:07.890 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:08.517 [info] ExtensionService#_doActivateExtension cweijan.vscode-office, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:08.833 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:08.932 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:09.101 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:09.111 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:09.117 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:09.125 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:09.197 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:09.216 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+	at /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+	at login (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async activate (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+	at async K0.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4447)
+	at async K0.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4410)
+	at async K0.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:3866)
+2025-01-29 00:12:09.415 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:12:09.428 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:12:09.504 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:12:09.573 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-29 00:12:09.643 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2025-01-29 00:12:30.593 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+	at /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+	at disable (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:150433)
+	at /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:150991
+	at cw.h (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:32833)
+	at cw.$executeContributedCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:33683)
+	at Dy.S (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115275)
+	at Dy.Q (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:115055)
+	at Dy.M (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:114144)
+	at Dy.L (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:113249)
+	at kh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:112046)
+	at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+	at kh.value (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:13296)
+	at P.B (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:746)
+	at P.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:964)
+	at Vn.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:9457)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11588)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-01-29 00:12:30.597 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+	at /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+	at login (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2025-01-29 00:12:43.979 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-29 00:12:44.077 [info] Extension host with pid 70869 exiting with code 0
+2025-01-29 00:12:45.780 [info] Extension host with pid 71434 started
+2025-01-29 00:12:45.780 [info] Skipping acquiring lock for /home/zefixed/.config/Code/User/workspaceStorage/eb282a2c7f8420c865b7626c39dca0dc.
+2025-01-29 00:12:45.940 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-29 00:12:46.032 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-01-29 00:12:46.052 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-29 00:12:46.124 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb', root cause: charliermarsh.ruff
+2025-01-29 00:12:47.080 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: true, activationEvent: 'workspaceContains:*.py,*.ipynb'
+2025-01-29 00:12:47.149 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'api', root cause: ms-python.python
+2025-01-29 00:12:47.670 [info] Eager extensions activated
+2025-01-29 00:12:47.770 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:47.774 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:47.808 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:47.931 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:48.120 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:48.133 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:48.223 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:48.957 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-01-29 00:12:49.203 [info] ExtensionService#_doActivateExtension Codeium.codeium, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:49.832 [info] ExtensionService#_doActivateExtension cweijan.vscode-office, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:50.165 [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+2025-01-29 00:12:50.182 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:50.187 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-01-29 00:12:50.351 [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+2025-01-29 00:12:50.359 [info] ExtensionService#_doActivateExtension ms-python.autopep8, startup: false, activationEvent: 'onLanguage:python'
+2025-01-29 00:12:50.404 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-01-29 00:12:50.465 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:python'
+2025-01-29 00:12:50.633 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+2025-01-29 00:12:50.686 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-29 00:12:50.709 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'api', root cause: ritwickdey.LiveServer
+2025-01-29 00:12:52.278 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+	at /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+	at login (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:149260)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async activate (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151363)
+	at async K0.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4447)
+	at async K0.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4410)
+	at async K0.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:3866)
+2025-01-29 00:12:52.373 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at _0x3abb0e.<computed>.<computed> [as appendLine] (/home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:236608)
+	at T.logOutputMessage (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2091621)
+	at T.info (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2091354)
+	at ChildProcess.<anonymous> (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2309697)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-29 00:12:53.365 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2041842)
+	at Object.dispose (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2104375)
+	at /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099941
+	at async Object.stop (/home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:243539)
+	at async _0x44e601._stopClient (/home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:187035)
+	at async _0x44e601._createNewRequest (/home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:186609)
+2025-01-29 00:13:28.806 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:13:28.831 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:13:28.936 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-29 00:14:04.958 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-29 00:14:05.063 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at w.logTrace (/home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:130158)
+	at Object.log (/home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:123808)
+	at /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:80781
+	at /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:80976
+	at ie (/home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:81341)
+	at /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:76125
+	at Immediate.<anonymous> (/home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:76145)
+	at process.processImmediate (node:internal/timers:483:21)
+2025-01-29 00:14:05.068 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at D.logOutputMessage (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:285192)
+	at D.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:284925)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:503028)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-29 00:14:05.075 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at _0x3abb0e.<computed>.<computed> (/home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:236608)
+	at _0x3abb0e.<computed>.<computed> [as appendLine] (/home/zefixed/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:236608)
+	at T.logOutputMessage (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2091621)
+	at T.info (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2091354)
+	at ChildProcess.<anonymous> (/home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2309697)
+	at ChildProcess.emit (node:events:518:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-01-29 00:14:06.044 [error] TypeError: Cannot read properties of null (reading 'write')
+	at IPCTransport.send (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24881)
+	at /home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24968
+	at new Promise (<anonymous>)
+	at IPCTransport.close (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:24925)
+	at RPCClient.destroy (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:18626)
+	at Object.deactivate (/home/zefixed/.vscode/extensions/icrawl.discord-vscode-5.8.0/dist/extension.js:2:151704)
+	at zz.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:11724)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9874
+	at Array.map (<anonymous>)
+	at zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9862)
+	at zz.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:10105)
+	at QC.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1424)
+	at Zi (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:15080)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:175:11628)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-01-29 00:14:07.002 [error] Error: Channel has been closed
+	at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2431)
+	at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2570)
+	at w.error (/home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:129570)
+	at /home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:137788
+	at async e.deactivate (/home/zefixed/.vscode/extensions/ms-python.autopep8-2024.0.0/dist/extension.js:1:392781)
+	at async Promise.all (index 16)
+	at async zz.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:9888)
+2025-01-29 00:14:07.003 [info] Extension host with pid 71434 exiting with code 0

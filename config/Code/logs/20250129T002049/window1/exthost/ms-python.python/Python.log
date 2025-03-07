@@ -1,0 +1,124 @@
+2025-01-29 00:20:53.944 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-29 00:20:53.944 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-29 00:20:53.944 [info] Experiment 'pythonTestAdapter' is active
+2025-01-29 00:20:53.944 [info] Native locator: Refresh started
+2025-01-29 00:20:53.944 [info] Native locator: Refresh started
+2025-01-29 00:20:53.944 [info] > pyenv which python
+2025-01-29 00:20:53.944 [info] cwd: .
+2025-01-29 00:20:57.516 [info] Python interpreter path: ./venv/bin/python
+2025-01-29 00:20:57.776 [info] > . ./venv/bin/activate.fish && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-29 00:20:57.776 [info] shell: fish
+2025-01-29 00:20:57.825 [info] Native locator: Refresh finished in 5262 ms
+2025-01-29 00:20:57.844 [info] > /bin/python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-29 00:20:57.844 [info] shell: fish
+2025-01-29 00:20:57.914 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:20:57.914 [info] Setting environment variable _OLD_FISH_PROMPT_OVERRIDE in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:20:57.914 [info] Prepending environment variable PATH in collection with /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish:/home/zefixed/Documents/python/lzparser/venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:20:57.914 [info] Setting environment variable VIRTUAL_ENV in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:20:57.915 [info] Send text to terminal: /bin/python /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish/envVars.txt
+2025-01-29 00:20:58.398 [info] Starting Pylance language server.
+2025-01-29 00:22:39.180 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:22:40.267 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:24:19.674 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:25:43.698 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:28:01.382 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:28:06.139 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:28:41.829 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:30:08.838 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:30:49.928 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:30:54.885 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:30:59.976 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:31:27.978 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:31:31.115 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:31:37.321 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:32:57.428 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:35:29.204 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:36:27.622 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:36:58.546 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:37:21.232 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:38:31.885 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadImage.py
+2025-01-29 00:40:14.491 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:41:12.801 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadImage.py
+2025-01-29 00:41:28.350 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadVideo.py
+2025-01-29 00:41:36.579 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadVideo.py
+2025-01-29 00:41:47.775 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadVideo.py
+2025-01-29 00:41:55.035 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadImage.py
+2025-01-29 00:42:04.680 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:42:28.543 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/makeDirs.py
+2025-01-29 00:43:02.631 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/makeDirs.py
+2025-01-29 00:44:58.849 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:45:36.804 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/makeDirs.py
+2025-01-29 00:46:08.038 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:46:23.025 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:46:26.914 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:46:58.733 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:47:04.069 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:47:07.664 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:47:44.298 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadImage.py
+2025-01-29 00:48:06.607 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadVideo.py
+2025-01-29 00:48:22.012 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/downloadVideo.py
+2025-01-29 00:49:56.321 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:50:07.290 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:50:16.547 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:50:22.783 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:50:37.501 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:51:12.819 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:51:22.615 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:53:27.164 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:54:19.866 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:54:34.083 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:54:39.698 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:55:22.400 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:55:30.146 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:55:34.197 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:55:40.265 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:55:57.443 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:56:28.577 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:57:00.476 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 00:57:54.834 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:58:44.173 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:58:47.892 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 00:59:58.143 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:00:26.206 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:00:35.394 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:00:52.917 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:01:48.296 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:02:25.406 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:02:50.860 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:03:08.479 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:06:44.794 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:07:00.612 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:07:04.613 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:07:15.785 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:07:16.687 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:22:50.687 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:23:22.614 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:25:31.306 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:26:50.919 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:27:06.977 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:27:23.530 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:27:39.898 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:28:03.027 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:28:27.091 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:28:43.238 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:28:59.203 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:29:12.074 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:29:33.020 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:30:21.214 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:31:18.355 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:31:31.676 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:31:44.143 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:32:08.962 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:32:29.664 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:33:58.840 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 01:34:36.061 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/getm3u8url.py
+2025-01-29 01:34:48.026 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:35:07.852 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:35:27.016 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:36:03.308 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:36:04.103 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:36:23.372 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:36:46.893 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:36:48.363 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:37:11.681 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py
+2025-01-29 01:37:21.373 [info] Discover tests for workspace name: lzparser - uri: /home/zefixed/Documents/python/lzparser/lzparser.py

@@ -1,0 +1,6 @@
+super + 1
+    notify-send "Super + 1 pressed"
+
+Mod4 + 2
+    notify-send "Super + 2 pressed"
+

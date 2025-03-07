@@ -1,0 +1,54 @@
+[2024-12-09 19:25:54.637] [info]  Checking for update
+[2024-12-09 19:25:54.648] [info]  Generated new staging user ID: 5b2e8d31-8948-5a61-990b-5af4e05e7025
+[2024-12-09 19:25:55.023] [info]  Found version 1.2.7 (url: mts-link-1.2.7.AppImage, mts-link-1.2.7.deb)
+[2024-12-09 19:25:57.914] [info]  Downloading update from mts-link-1.2.7.AppImage, mts-link-1.2.7.deb
+[2024-12-09 19:25:57.934] [error] Error: Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+[2024-12-09 19:25:57.935] [error] Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+[2024-12-09 19:25:57.936] [error] (node:51298) UnhandledPromiseRejectionWarning: Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+(Use `mts-link --trace-warnings ...` to show where the warning was created)
+[2024-12-09 19:25:57.937] [error] (node:51298) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+[2024-12-10 11:01:02.621] [info]  Checking for update
+[2024-12-10 11:01:03.425] [info]  Found version 1.2.7 (url: mts-link-1.2.7.AppImage, mts-link-1.2.7.deb)
+[2024-12-10 13:23:38.782] [info]  Downloading update from mts-link-1.2.7.AppImage, mts-link-1.2.7.deb
+[2024-12-10 13:23:38.793] [error] Error: Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+[2024-12-10 13:23:38.793] [error] Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+[2024-12-10 13:23:38.794] [error] (node:12860) UnhandledPromiseRejectionWarning: Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+(Use `mts-link --trace-warnings ...` to show where the warning was created)
+[2024-12-10 13:23:38.794] [error] (node:12860) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+[2024-12-17 12:13:27.563] [info]  Checking for update
+[2024-12-17 12:13:27.743] [info]  Found version 1.2.7 (url: mts-link-1.2.7.AppImage, mts-link-1.2.7.deb)
+[2024-12-17 12:13:31.020] [info]  Downloading update from mts-link-1.2.7.AppImage, mts-link-1.2.7.deb
+[2024-12-17 12:13:31.051] [error] Error: Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+[2024-12-17 12:13:31.052] [error] Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+[2024-12-17 12:13:31.053] [error] (node:2611) UnhandledPromiseRejectionWarning: Error: APPIMAGE env is not defined
+    at Object.t.newError (/opt/mts-link/resources/app.asar/dist/main/main.js:14:699870)
+    at Object.task (/opt/mts-link/resources/app.asar/dist/main/main.js:14:793145)
+    at h.executeDownload (/opt/mts-link/resources/app.asar/dist/main/main.js:14:803772)
+(Use `mts-link --trace-warnings ...` to show where the warning was created)
+[2024-12-17 12:13:31.053] [error] (node:2611) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+[2025-03-07 14:38:52.440] [info]  Checking for update
+[2025-03-07 14:38:52.602] [info]  Found version 1.2.10 (url: mts-link-1.2.10.AppImage, mts-link-1.2.10.deb)

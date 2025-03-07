@@ -73,3 +73,4 @@ st.borderpx: 10
 
   tabbed.normfgcolor:  #9294a8
   tabbed.normbgcolor:  #353b45
+Xcursor.theme: catppuccin-mocha-mauve-cursors

@@ -1,0 +1,5 @@
+2025-01-29 00:07:34.913 [info] update#setState idle
+2025-01-29 00:08:04.916 [info] update#setState checking for updates
+2025-01-29 00:08:05.005 [info] update#setState idle
+2025-01-29 00:08:33.425 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-01-29 00:11:59.818 [info] Extension host with pid 68536 exited with code: 0, signal: unknown.

@@ -1,0 +1,49 @@
+2024/12/10-01:47:21.793 17bbd Reusing MANIFEST /home/zefixed/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/10-01:47:24.616 17bf9 Level-0 table #5: started
+2024/12/10-01:47:24.622 17bf9 Level-0 table #5: 72055 bytes OK
+2024/12/10-01:47:24.630 17bf9 Delete type=0 #3
+2024/12/10-01:47:24.631 17bf9 Manual compaction at level-0 from '\x00*\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/10-01:47:29.307 17bf9 Level-0 table #7: started
+2024/12/10-01:47:29.323 17bf9 Level-0 table #7: 1053296 bytes OK
+2024/12/10-01:47:29.332 17bf9 Delete type=0 #4
+2024/12/10-01:47:29.402 17bf9 Compacting 1@1 + 1@2 files
+2024/12/10-01:47:29.422 17bf9 Generated table #8@1: 5186 keys, 941574 bytes
+2024/12/10-01:47:29.422 17bf9 Compacted 1@1 + 1@2 files => 941574 bytes
+2024/12/10-01:47:29.426 17bf9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/10-01:47:29.426 17bf9 Delete type=2 #7
+2024/12/10-01:47:29.426 17bf9 Delete type=2 #5
+2024/12/10-01:47:48.351 17bf9 Level-0 table #10: started
+2024/12/10-01:47:48.374 17bf9 Level-0 table #10: 1463264 bytes OK
+2024/12/10-01:47:48.379 17bf9 Delete type=0 #6
+2024/12/10-01:47:48.383 17bf9 Compacting 1@1 + 1@2 files
+2024/12/10-01:47:48.418 17bf9 Generated table #11@1: 6745 keys, 1596407 bytes
+2024/12/10-01:47:48.418 17bf9 Compacted 1@1 + 1@2 files => 1596407 bytes
+2024/12/10-01:47:48.423 17bf9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/10-01:47:48.423 17bf9 Delete type=2 #10
+2024/12/10-01:47:48.423 17bf9 Delete type=2 #8
+2024/12/10-01:47:48.482 17bf9 Level-0 table #13: started
+2024/12/10-01:47:48.507 17bf9 Level-0 table #13: 2006647 bytes OK
+2024/12/10-01:47:48.512 17bf9 Delete type=0 #9
+2024/12/10-01:47:48.519 17bf9 Compacting 1@1 + 1@2 files
+2024/12/10-01:47:48.554 17bf9 Generated table #14@1: 4743 keys, 2143816 bytes
+2024/12/10-01:47:48.584 17bf9 Generated table #15@1: 7000 keys, 1429365 bytes
+2024/12/10-01:47:48.584 17bf9 Compacted 1@1 + 1@2 files => 3573181 bytes
+2024/12/10-01:47:48.589 17bf9 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/12/10-01:47:48.589 17bf9 Delete type=2 #13
+2024/12/10-01:47:48.589 17bf9 Delete type=2 #11
+2024/12/10-01:47:48.613 17bf9 Level-0 table #17: started
+2024/12/10-01:47:48.640 17bf9 Level-0 table #17: 2021614 bytes OK
+2024/12/10-01:47:48.645 17bf9 Delete type=0 #12
+2024/12/10-01:47:48.652 17bf9 Compacting 1@1 + 2@2 files
+2024/12/10-01:47:48.689 17bf9 Generated table #18@1: 7658 keys, 2148183 bytes
+2024/12/10-01:47:48.721 17bf9 Generated table #19@1: 882 keys, 2142731 bytes
+2024/12/10-01:47:48.736 17bf9 Level-0 table #22: started
+2024/12/10-01:47:48.761 17bf9 Level-0 table #22: 2014017 bytes OK
+2024/12/10-01:47:48.766 17bf9 Delete type=0 #16
+2024/12/10-01:47:48.781 17bf9 Generated table #20@1: 8367 keys, 1297986 bytes
+2024/12/10-01:47:48.781 17bf9 Compacted 1@1 + 2@2 files => 5588900 bytes
+2024/12/10-01:47:48.786 17bf9 compacted to: files[ 1 0 3 0 0 0 0 ]
+2024/12/10-01:47:48.786 17bf9 Delete type=2 #17
+2024/12/10-01:47:48.786 17bf9 Delete type=2 #15
+2024/12/10-01:47:48.786 17bf9 Delete type=2 #14
+2024/12/10-01:47:49.480 17bf9 Moved #22 to level-1 2014017 bytes OK: files[ 0 1 3 0 0 0 0 ]

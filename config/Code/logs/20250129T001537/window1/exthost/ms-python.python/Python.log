@@ -1,0 +1,19 @@
+2025-01-29 00:15:41.903 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-29 00:15:41.903 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-29 00:15:41.903 [info] Experiment 'pythonTestAdapter' is active
+2025-01-29 00:15:41.903 [info] Native locator: Refresh started
+2025-01-29 00:15:41.903 [info] Native locator: Refresh started
+2025-01-29 00:15:41.903 [info] > pyenv which python
+2025-01-29 00:15:41.903 [info] cwd: .
+2025-01-29 00:15:45.683 [info] Python interpreter path: ./venv/bin/python
+2025-01-29 00:15:45.933 [info] > . ./venv/bin/activate.fish && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-29 00:15:45.934 [info] shell: fish
+2025-01-29 00:15:45.946 [info] Native locator: Refresh finished in 5553 ms
+2025-01-29 00:15:46.011 [info] > /usr/bin/python ~/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-01-29 00:15:46.011 [info] shell: fish
+2025-01-29 00:15:46.075 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:15:46.075 [info] Setting environment variable _OLD_FISH_PROMPT_OVERRIDE in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:15:46.075 [info] Prepending environment variable PATH in collection with /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish:/home/zefixed/Documents/python/lzparser/venv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:15:46.075 [info] Setting environment variable VIRTUAL_ENV in collection to /home/zefixed/Documents/python/lzparser/venv {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-01-29 00:15:46.076 [info] Send text to terminal: /usr/bin/python /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/zefixed/.vscode/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/fish/envVars.txt
+2025-01-29 00:15:46.594 [info] Starting Pylance language server.

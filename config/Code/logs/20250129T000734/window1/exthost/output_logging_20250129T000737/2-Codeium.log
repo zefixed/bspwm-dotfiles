@@ -1,0 +1,47 @@
+(VSCode) 2025-01-29 00:08:35.108 [INFO]: No proxy settings found
+(VSCode) 2025-01-29 00:08:36.750 [INFO]: Checking network connection...
+(VSCode) 2025-01-29 00:08:36.895 [INFO]: Creating manager directory: /tmp/e6dec752-052e-43f6-9428-2b7f8fe67e5a/codeium/manager
+(VSCode) 2025-01-29 00:08:36.897 [INFO]: 1922b6ec8869ef782574fa5f5951f1c5e172c7b6 not found, downloading language server
+(VSCode) 2025-01-29 00:08:36.963 [INFO]: No proxy settings found
+(VSCode) 2025-01-29 00:08:37.270 [INFO]: No Network Issue connecting to https://server.codeium.com/healthz
+(VSCode) 2025-01-29 00:08:42.804 [INFO]: Language server started
+2025/01/29 00:08:42 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0129 00:08:42.953023 69199 main.go:568] [Language Server Manager] Setting GOMAXPROCS to 8
+I0129 00:08:42.953111 69199 main.go:707] [Language Server Manager] Release 1.30.18 (1922b6ec8869ef782574fa5f5951f1c5e172c7b6)
+I0129 00:08:42.953150 69199 main.go:786] [Language Server Manager] Starting language server manager with pid 69199
+I0129 00:08:42.953270 69199 main.go:123] [Language Server Manager] Manager acquired its lock file /tmp/e6dec752-052e-43f6-9428-2b7f8fe67e5a/codeium/manager/locks/manager.lock
+I0129 00:08:42.954059 69199 main.go:264] [Language Server Manager] Waiting for random port file in /tmp/e6dec752-052e-43f6-9428-2b7f8fe67e5a/codeium/manager/child_random_port_1738098522953431877_7453092870937477534 to be created
+2025/01/29 00:08:42 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+I0129 00:08:43.095146 69212 main.go:568] Setting GOMAXPROCS to 4
+I0129 00:08:43.095588 69212 main.go:780] Starting language server process with pid 69212
+I0129 00:08:43.095643 69212 server.go:220] Language server will attempt to listen on host 127.0.0.1
+I0129 00:08:43.095802 69212 server.go:227] Language server listening on random port at 38755
+I0129 00:08:43.594673 69212 unleash.go:92] Initializing Unleash
+I0129 00:08:44.058899 69212 unleash.go:112] Successfully initialized Unleash
+I0129 00:08:44.059376 69212 server.go:297] Extension server port not specified; skipping extension server client creation
+I0129 00:08:44.089692 69212 web_server.go:258] Chat Web Server listening at ws://127.0.0.1:36629
+E0129 00:08:44.109726 69212 client_manager.go:275] Metadata is nil when trying to refresh user JWT
+I0129 00:08:44.110449 69212 server.go:528] Successfully created API server client
+I0129 00:08:44.162415 69212 server.go:546] Successfully initialized tokenizer
+I0129 00:08:44.474230 69212 server.go:721] Local search is enabled, will index local files.
+I0129 00:08:44.474271 69212 server.go:725] Using 2 indexer workers
+I0129 00:08:44.496850 69212 sqlite_faiss_db_client.go:64] Successfully created embedding search database in 22ms
+I0129 00:08:44.497284 69212 indexer.go:213] Using 4 embed workers
+I0129 00:08:44.497348 69212 search_provider.go:274] Successfully created and started indexer
+I0129 00:08:44.497407 69212 search_provider.go:304] Successfully created embedding search provider
+I0129 00:08:44.502826 69212 server.go:813] Successfully created completion provider
+I0129 00:08:44.502873 69212 server.go:862] Child process attempting to acquire lock file /tmp/e6dec752-052e-43f6-9428-2b7f8fe67e5a/codeium/manager/locks/child_lock_1738098522953463376_378233051093905579
+I0129 00:08:44.502944 69212 server.go:870] Child process acquired lock file /tmp/e6dec752-052e-43f6-9428-2b7f8fe67e5a/codeium/manager/locks/child_lock_1738098522953463376_378233051093905579
+I0129 00:08:44.515181 69212 server.go:356] LSP listening on random port at 44641
+44641
+I0129 00:08:44.561515 69199 main.go:300] [Language Server Manager] Found random server port 38755
+I0129 00:08:44.561565 69199 main.go:301] [Language Server Manager] Found random lsp port 44641
+I0129 00:08:44.561593 69199 main.go:308] [Language Server Manager] Attempting to connect to language server at 127.0.0.1:38755
+I0129 00:08:44.574764 69199 main.go:177] [Language Server Manager] Fixing language server port at 38755
+I0129 00:08:44.574794 69199 main.go:360] [Language Server Manager] Successfully connected to new language server at 127.0.0.1:38755
+(VSCode) 2025-01-29 00:08:44.617 [INFO]: Found language server running on port 38755
+E0129 00:10:45.595675 69212 unleash.go:62] Unleash error: Get "https://unleash.codeium.com/api/client/features": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+E0129 00:11:04.909207 69212 api_server_client.go:337] GetUnleashContextFields error: unary response has zero messages
+(VSCode) 2025-01-29 00:11:37.288 [ERROR]: undefined
+(VSCode) 2025-01-29 00:11:37.301 [ERROR]: undefined
+(VSCode) 2025-01-29 00:11:37.303 [ERROR]: undefined
