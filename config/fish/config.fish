@@ -4,13 +4,13 @@ alias cls="clear"
 alias g="git"
 alias n="nvim"
 alias m="micro"
-alias sudo="sudo -E"
+#alias sudo="sudo -E"
 
 function sudo
     if test "$argv[1]" = "n"
         command sudo -E nvim $argv[2..-1]
     else
-        command sudo $argv
+        command sudo -E $argv
     end
 end
 
