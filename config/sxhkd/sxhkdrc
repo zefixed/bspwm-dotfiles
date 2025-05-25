@@ -18,18 +18,18 @@ super + {_, shift + , ctrl + }w
 #	sh $HOME/bin/random_wallpaper
 
 # Change language
-Alt_L + shift
-	sh $HOME/bin/change_language.sh
-
-Shift_L + alt
-	sh $HOME/bin/change_language.sh
+#Alt_L + shift
+#    sh $HOME/bin/change_language.sh
+#
+#Shift_L + alt
+#    sh $HOME/bin/change_language.sh
     
 # Launch Rofi Menu
 super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
 
 # Launch Applications
-super + shift + {f,n,p,t,c,v,i,x,q,k,l,d,s,o}
+super + shift + {f,n,p,t,c,v,i,x,q,k,l,d,s,o,z}
 	{firefox, \
 	thunar, \
 	pavucontrol, \
@@ -43,7 +43,8 @@ super + shift + {f,n,p,t,c,v,i,x,q,k,l,d,s,o}
 	sh $HOME/bin/screen-lock, \
     discord, \
     spotify-launcher, \
-    obsidian}
+    obsidian, \
+    zen-browser}
      
 # Select window to close
 ctrl + super + alt + k
@@ -99,8 +100,8 @@ alt + {_,shift + }Tab
 
 
 # focus the last node/desktop
-super + {grave,Tab}
-	bspc {node,desktop} -f last
+#super + {grave,Tab}
+#	bspc {node,desktop} -f last
 
 # send focus window to current desktop
 #super + {_,shift + }{1-9,0}
@@ -132,7 +133,7 @@ super + ctrl + shift + space
 
 # Expanding windows
 super + control {h,j,k,l}
-    bspc node -z {left -20 0,right 20 0,top 0 -20,bottom 0 20} 
+    bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0} 
 
 # Send the window to another edge of the screen
 super + {_,alt + }{h,j,k,l}
